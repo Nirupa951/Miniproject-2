@@ -1,0 +1,870 @@
+match_type,date,team1,team2,venue,city,toss_winner,toss_decision,match_winner,result,win_by_runs,win_by_wickets
+test,2016-11-03,Australia,South Africa,Western Australia Cricket Association Ground,Perth,South Africa,bat,South Africa,,177,0
+test,2016-11-12,Australia,South Africa,Bellerive Oval,Hobart,South Africa,field,South Africa,,80,0
+test,2016-11-24,Australia,South Africa,Adelaide Oval,,South Africa,bat,Australia,,0,7
+test,2016-12-15,Australia,Pakistan,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Australia,bat,Australia,,39,0
+test,2016-12-26,Australia,Pakistan,Melbourne Cricket Ground,,Pakistan,bat,Australia,,18,0
+test,2017-01-03,Australia,Pakistan,Sydney Cricket Ground,,Australia,bat,Australia,,220,0
+test,2017-01-12,New Zealand,Bangladesh,Basin Reserve,Wellington,New Zealand,field,New Zealand,,0,7
+test,2017-01-20,New Zealand,Bangladesh,Hagley Oval,Christchurch,New Zealand,field,New Zealand,,0,9
+test,2016-11-17,New Zealand,Pakistan,Hagley Oval,Christchurch,New Zealand,field,New Zealand,,0,8
+test,2016-11-25,New Zealand,Pakistan,Seddon Park,Hamilton,Pakistan,field,New Zealand,,138,0
+test,2017-03-08,New Zealand,South Africa,University Oval,Dunedin,South Africa,bat,,draw,0,0
+test,2017-03-16,New Zealand,South Africa,Basin Reserve,Wellington,South Africa,field,South Africa,,0,8
+test,2017-03-25,New Zealand,South Africa,Seddon Park,Hamilton,South Africa,bat,,draw,0,0
+test,2016-07-21,West Indies,India,"Sir Vivian Richards Stadium, North Sound",Antigua,India,bat,India,,92,0
+test,2016-07-30,West Indies,India,"Sabina Park, Kingston",Jamaica,West Indies,bat,,draw,0,0
+test,2016-08-09,West Indies,India,"Darren Sammy National Cricket Stadium, Gros Islet",St Lucia,West Indies,field,India,,237,0
+test,2016-08-18,West Indies,India,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,bat,,draw,0,0
+test,2016-07-28,Zimbabwe,New Zealand,Queens Sports Club,Bulawayo,Zimbabwe,bat,New Zealand,,117,0
+test,2016-08-06,Zimbabwe,New Zealand,Queens Sports Club,Bulawayo,New Zealand,bat,New Zealand,,254,0
+test,2016-10-20,Bangladesh,England,Zahur Ahmed Chowdhury Stadium,Chittagong,England,bat,England,,22,0
+test,2016-10-28,Bangladesh,England,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,Bangladesh,,108,0
+test,2016-09-22,India,New Zealand,Green Park,Kanpur,India,bat,India,,197,0
+test,2016-09-30,India,New Zealand,Eden Gardens,Kolkata,India,bat,India,,178,0
+test,2016-10-08,India,New Zealand,Holkar Cricket Stadium,Indore,India,bat,India,,321,0
+test,2017-07-06,England,South Africa,Lord's,London,England,bat,England,,211,0
+test,2017-07-14,South Africa,England,Trent Bridge,Nottingham,South Africa,bat,South Africa,,340,0
+test,2017-07-27,England,South Africa,Kennington Oval,London,England,bat,England,,239,0
+test,2017-08-04,England,South Africa,Old Trafford,Manchester,England,bat,England,,177,0
+test,2017-08-17,England,West Indies,Edgbaston,Birmingham,England,bat,England,,209,0
+test,2017-08-25,England,West Indies,Headingley,Leeds,England,bat,West Indies,,0,5
+test,2017-09-07,West Indies,England,Lord's,London,West Indies,bat,England,,0,9
+test,2016-11-09,India,England,Saurashtra Cricket Association Stadium,Rajkot,England,bat,,draw,0,0
+test,2016-11-17,India,England,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,bat,India,,246,0
+test,2016-11-26,India,England,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,England,bat,India,,0,8
+test,2016-12-08,India,England,Wankhede Stadium,Mumbai,England,bat,India,,36,0
+test,2016-12-16,India,England,"MA Chidambaram Stadium, Chepauk",Chennai,England,bat,India,,75,0
+test,2017-02-09,India,Bangladesh,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,India,bat,India,,208,0
+test,2016-10-13,Pakistan,West Indies,Dubai International Cricket Stadium,,Pakistan,bat,Pakistan,,56,0
+test,2016-10-21,Pakistan,West Indies,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,bat,Pakistan,,133,0
+test,2016-10-30,Pakistan,West Indies,Sharjah Cricket Stadium,,Pakistan,bat,West Indies,,0,5
+test,2016-10-29,Zimbabwe,Sri Lanka,Harare Sports Club,,Sri Lanka,bat,Sri Lanka,,225,0
+test,2016-11-06,Zimbabwe,Sri Lanka,Harare Sports Club,,Zimbabwe,field,Sri Lanka,,257,0
+test,2017-02-23,India,Australia,Maharashtra Cricket Association Stadium,Pune,Australia,bat,Australia,,333,0
+test,2017-03-04,India,Australia,M Chinnaswamy Stadium,Bengaluru,India,bat,India,,75,0
+test,2017-03-16,India,Australia,JSCA International Stadium Complex,Ranchi,Australia,bat,,draw,0,0
+test,2017-03-25,India,Australia,Himachal Pradesh Cricket Association Stadium,Dharamsala,Australia,bat,India,,0,8
+test,2017-11-23,England,Australia,"Brisbane Cricket Ground, Woolloongabba",Brisbane,England,bat,Australia,,0,10
+test,2017-12-02,Australia,England,Adelaide Oval,,England,field,Australia,,120,0
+test,2017-12-14,England,Australia,W.A.C.A. Ground,Perth,England,bat,Australia,,41,0
+test,2017-12-26,Australia,England,Melbourne Cricket Ground,,Australia,bat,,draw,0,0
+test,2018-01-04,England,Australia,Sydney Cricket Ground,,England,bat,Australia,,123,0
+test,2017-09-28,South Africa,Bangladesh,Senwes Park,Potchefstroom,Bangladesh,field,South Africa,,333,0
+test,2017-10-06,South Africa,Bangladesh,Mangaung Oval,Bloemfontein,Bangladesh,field,South Africa,,254,0
+test,2018-03-01,Australia,South Africa,Kingsmead,Durban,Australia,bat,Australia,,118,0
+test,2018-03-09,Australia,South Africa,St George's Park,Port Elizabeth,Australia,bat,South Africa,,0,6
+test,2018-03-22,South Africa,Australia,Newlands,Cape Town,South Africa,bat,South Africa,,322,0
+test,2018-03-30,South Africa,Australia,The Wanderers Stadium,Johannesburg,South Africa,bat,South Africa,,492,0
+test,2017-04-21,West Indies,Pakistan,"Sabina Park, Kingston",Jamaica,Pakistan,field,Pakistan,,0,7
+test,2017-04-30,West Indies,Pakistan,"Kensington Oval, Bridgetown",Barbados,West Indies,bat,West Indies,,106,0
+test,2017-05-10,West Indies,Pakistan,"Windsor Park, Roseau",Dominica,West Indies,field,Pakistan,,101,0
+test,2017-03-07,Sri Lanka,Bangladesh,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,259,0
+test,2017-03-15,Sri Lanka,Bangladesh,P Sara Oval,Colombo,Sri Lanka,bat,Bangladesh,,0,4
+test,2017-11-09,England,Australia,"North Sydney Oval, Sydney",Sydney,England,bat,,draw,0,0
+test,2017-08-27,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,Bangladesh,,20,0
+test,2017-09-04,Bangladesh,Australia,Zahur Ahmed Chowdhury Stadium,Chattogram,Bangladesh,bat,Australia,,0,7
+test,2017-07-14,Zimbabwe,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,Zimbabwe,bat,Sri Lanka,,0,4
+test,2017-07-26,India,Sri Lanka,Galle International Stadium,,India,bat,India,,304,0
+test,2017-08-03,India,Sri Lanka,Sinhalese Sports Club Ground,Colombo,India,bat,India,,53,0
+test,2017-08-12,India,Sri Lanka,Pallekele International Cricket Stadium,,India,bat,India,,171,0
+test,2018-03-22,England,New Zealand,Eden Park,Auckland,New Zealand,field,New Zealand,,49,0
+test,2018-03-30,England,New Zealand,Hagley Oval,Christchurch,New Zealand,field,,draw,0,0
+test,2017-12-01,West Indies,New Zealand,Basin Reserve,Wellington,New Zealand,field,New Zealand,,67,0
+test,2017-12-09,New Zealand,West Indies,Seddon Park,Hamilton,West Indies,field,New Zealand,,240,0
+test,2018-05-24,England,Pakistan,Lord's,London,England,bat,Pakistan,,0,9
+test,2018-06-01,Pakistan,England,Headingley,Leeds,Pakistan,bat,England,,55,0
+test,2018-08-01,England,India,Edgbaston,Birmingham,England,bat,England,,31,0
+test,2018-08-09,India,England,Lord's,London,England,field,England,,159,0
+test,2018-08-18,India,England,Trent Bridge,Nottingham,England,field,India,,203,0
+test,2018-08-30,England,India,The Rose Bowl,Southampton,England,bat,England,,60,0
+test,2018-09-07,England,India,Kennington Oval,London,England,bat,England,,118,0
+test,2017-09-28,Sri Lanka,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,Sri Lanka,bat,Sri Lanka,,21,0
+test,2017-10-06,Sri Lanka,Pakistan,Dubai International Cricket Stadium,,Sri Lanka,bat,Sri Lanka,,68,0
+test,2018-01-05,South Africa,India,Newlands,Cape Town,South Africa,bat,South Africa,,72,0
+test,2018-01-13,South Africa,India,SuperSport Park,Centurion,South Africa,bat,South Africa,,135,0
+test,2018-01-24,India,South Africa,The Wanderers Stadium,Johannesburg,India,bat,India,,63,0
+test,2017-12-26,South Africa,Zimbabwe,"St George's Park, Port Elizabeth",Port Elizabeth,South Africa,bat,South Africa,,120,0
+test,2017-11-16,India,Sri Lanka,Eden Gardens,Kolkata,Sri Lanka,field,,draw,0,0
+test,2017-11-24,Sri Lanka,India,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Sri Lanka,bat,India,,239,0
+test,2017-12-02,India,Sri Lanka,Arun Jaitley Stadium,Delhi,India,bat,,draw,0,0
+test,2017-10-21,West Indies,Zimbabwe,Queens Sports Club,Bulawayo,West Indies,bat,West Indies,,117,0
+test,2017-10-29,Zimbabwe,West Indies,Queens Sports Club,Bulawayo,Zimbabwe,bat,,draw,0,0
+test,2018-05-11,Ireland,Pakistan,"The Village, Malahide",Dublin,Ireland,field,Pakistan,,0,5
+test,2018-01-31,Bangladesh,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chattogram,Bangladesh,bat,,draw,0,0
+test,2018-02-08,Sri Lanka,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Sri Lanka,bat,Sri Lanka,,215,0
+test,2018-06-06,West Indies,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,bat,West Indies,,226,0
+test,2018-06-14,Sri Lanka,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,Sri Lanka,bat,,draw,0,0
+test,2018-06-23,West Indies,Sri Lanka,"Kensington Oval, Bridgetown",Barbados,West Indies,bat,Sri Lanka,,0,4
+test,2018-11-06,England,Sri Lanka,Galle International Stadium,,England,bat,England,,211,0
+test,2018-11-14,England,Sri Lanka,Pallekele International Cricket Stadium,,England,bat,England,,57,0
+test,2018-11-23,England,Sri Lanka,Sinhalese Sports Club Ground,Colombo,England,bat,England,,42,0
+test,2018-07-12,Sri Lanka,South Africa,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,278,0
+test,2018-07-20,Sri Lanka,South Africa,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,Sri Lanka,,199,0
+test,2018-12-26,South Africa,Pakistan,SuperSport Park,Centurion,Pakistan,bat,South Africa,,0,6
+test,2019-01-03,South Africa,Pakistan,Newlands,Cape Town,South Africa,field,South Africa,,0,9
+test,2019-01-11,South Africa,Pakistan,The Wanderers Stadium,Johannesburg,South Africa,bat,South Africa,,107,0
+test,2019-02-13,South Africa,Sri Lanka,Kingsmead,Durban,Sri Lanka,field,Sri Lanka,,0,1
+test,2019-02-21,South Africa,Sri Lanka,St George's Park,Port Elizabeth,South Africa,bat,Sri Lanka,,0,8
+test,2018-12-06,India,Australia,Adelaide Oval,,India,bat,India,,31,0
+test,2018-12-14,Australia,India,Perth Stadium,,Australia,bat,Australia,,146,0
+test,2018-12-26,Australia,India,Melbourne Cricket Ground,Melbourne,India,bat,India,,137,0
+test,2019-01-03,Australia,India,Sydney Cricket Ground,Sydney,India,bat,,draw,0,0
+test,2019-01-24,Australia,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Sri Lanka,bat,Australia,,40,0
+test,2019-02-01,Australia,Sri Lanka,Manuka Oval,Canberra,Australia,bat,Australia,,366,0
+test,2018-07-04,Bangladesh,West Indies,Sir Vivian Richards Stadium,North Sound,West Indies,field,West Indies,,219,0
+test,2018-07-12,West Indies,Bangladesh,"Sabina Park, Kingston",Jamaica,Bangladesh,field,West Indies,,166,0
+test,2019-07-24,England,Ireland,Lord's,London,England,bat,England,,143,0
+test,2019-08-01,England,Australia,Edgbaston,Birmingham,Australia,bat,Australia,,251,0
+test,2019-08-14,England,Australia,Lord's,London,Australia,field,,draw,0,0
+test,2019-08-22,England,Australia,Headingley,Leeds,England,field,England,,0,1
+test,2019-09-04,England,Australia,Old Trafford,Manchester,Australia,bat,Australia,,185,0
+test,2019-09-12,England,Australia,Kennington Oval,London,Australia,field,England,,135,0
+test,2018-11-22,Bangladesh,West Indies,Zahur Ahmed Chowdhury Stadium,Chattogram,Bangladesh,bat,Bangladesh,,64,0
+test,2018-11-30,Bangladesh,West Indies,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,Bangladesh,,184,0
+test,2018-11-03,Zimbabwe,Bangladesh,Sylhet International Cricket Stadium,,Zimbabwe,bat,Zimbabwe,,151,0
+test,2018-11-11,Bangladesh,Zimbabwe,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,Bangladesh,,218,0
+test,2018-12-15,Sri Lanka,New Zealand,"Basin Reserve, Wellington",Wellington,New Zealand,field,,draw,0,0
+test,2018-12-26,New Zealand,Sri Lanka,Hagley Oval,Christchurch,Sri Lanka,field,New Zealand,,423,0
+test,2019-02-28,New Zealand,Bangladesh,Seddon Park,Hamilton,New Zealand,field,New Zealand,,52,0
+test,2019-03-08,New Zealand,Bangladesh,Basin Reserve,Wellington,New Zealand,field,New Zealand,,12,0
+test,2018-10-07,Pakistan,Australia,Dubai International Cricket Stadium,,Pakistan,bat,,draw,0,0
+test,2018-10-16,Pakistan,Australia,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,bat,Pakistan,,373,0
+test,2018-11-16,New Zealand,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,New Zealand,bat,New Zealand,,4,0
+test,2018-11-24,Pakistan,New Zealand,Dubai International Cricket Stadium,,Pakistan,bat,Pakistan,,16,0
+test,2018-12-03,New Zealand,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,New Zealand,bat,New Zealand,,123,0
+test,2018-10-04,India,West Indies,Saurashtra Cricket Association Stadium,Rajkot,India,bat,India,,272,0
+test,2018-10-12,West Indies,India,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,West Indies,bat,India,,0,10
+test,2019-01-23,West Indies,England,"Kensington Oval, Barbados",Bridgetown,West Indies,bat,West Indies,,381,0
+test,2019-01-31,West Indies,England,"Sir Vivian Richards Stadium, Antigua",North Sound,West Indies,field,West Indies,,0,10
+test,2019-02-09,West Indies,England,"Daren Sammy National Cricket Stadium, St Lucia",Gros Islet,West Indies,field,England,,232,0
+test,2019-07-18,England,Australia,The Cooper Associates County Ground,Taunton,Australia,bat,,draw,0,0
+test,2019-11-21,Australia,Pakistan,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Pakistan,bat,Australia,,5,0
+test,2019-11-29,Australia,Pakistan,Adelaide Oval,Adelaide,Australia,bat,Australia,,48,0
+test,2019-12-12,Australia,New Zealand,Perth Stadium,Perth,Australia,bat,Australia,,296,0
+test,2019-12-26,Australia,New Zealand,Melbourne Cricket Ground,Melbourne,New Zealand,field,Australia,,247,0
+test,2020-01-03,Australia,New Zealand,Sydney Cricket Ground,Sydney,Australia,bat,Australia,,279,0
+test,2019-12-26,South Africa,England,SuperSport Park,Centurion,England,field,South Africa,,107,0
+test,2020-01-03,South Africa,England,Newlands,Cape Town,England,bat,England,,189,0
+test,2020-01-16,South Africa,England,St George's Park,Port Elizabeth,England,bat,England,,53,0
+test,2020-01-24,South Africa,England,The Wanderers Stadium,Johannesburg,England,bat,England,,191,0
+test,2019-10-02,India,South Africa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,bat,India,,203,0
+test,2019-10-10,India,South Africa,Maharashtra Cricket Association Stadium,Pune,India,bat,India,,137,0
+test,2019-10-19,India,South Africa,JSCA International Stadium Complex,Ranchi,India,bat,India,,202,0
+test,2019-11-14,India,Bangladesh,Holkar Cricket Stadium,Indore,Bangladesh,bat,India,,130,0
+test,2019-11-22,India,Bangladesh,Eden Gardens,Kolkata,Bangladesh,bat,India,,46,0
+test,2019-11-21,New Zealand,England,Bay Oval,Mount Maunganui,England,bat,New Zealand,,65,0
+test,2019-11-29,New Zealand,England,Seddon Park,Hamilton,England,field,,draw,0,0
+test,2020-02-21,New Zealand,India,Basin Reserve,Wellington,New Zealand,field,New Zealand,,0,10
+test,2020-02-29,New Zealand,India,Hagley Oval,Christchurch,New Zealand,field,New Zealand,,0,7
+test,2019-08-22,West Indies,India,"Sir Vivian Richards Stadium, Antigua",North Sound,West Indies,field,India,,318,0
+test,2019-08-30,West Indies,India,"Sabina Park, Jamaica",Kingston,West Indies,field,India,,257,0
+test,2019-08-14,Sri Lanka,New Zealand,Galle International Stadium,Galle,New Zealand,bat,Sri Lanka,,0,6
+test,2019-08-22,Sri Lanka,New Zealand,P Sara Oval,Colombo,Sri Lanka,bat,New Zealand,,65,0
+test,2020-08-05,Pakistan,England,Old Trafford,Manchester,Pakistan,bat,England,,0,3
+test,2020-08-13,Pakistan,England,The Rose Bowl,Southampton,Pakistan,bat,,draw,0,0
+test,2020-08-21,England,Pakistan,The Rose Bowl,Southampton,England,bat,,draw,0,0
+test,2019-12-11,Pakistan,Sri Lanka,Rawalpindi Cricket Stadium,Rawalpindi,Sri Lanka,bat,,draw,0,0
+test,2019-12-19,Pakistan,Sri Lanka,National Stadium,Karachi,Pakistan,bat,Pakistan,,263,0
+test,2020-01-19,Zimbabwe,Sri Lanka,Harare Sports Club,Harare,Zimbabwe,bat,Sri Lanka,,0,10
+test,2020-01-27,Zimbabwe,Sri Lanka,Harare Sports Club,Harare,Zimbabwe,bat,,draw,0,0
+test,2020-02-07,Pakistan,Bangladesh,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,field,Pakistan,,44,0
+test,2020-02-22,Bangladesh,Zimbabwe,"Shere Bangla National Stadium, Mirpur",Dhaka,Zimbabwe,bat,Bangladesh,,106,0
+test,2020-12-17,India,Australia,Adelaide Oval,Adelaide,India,bat,Australia,,0,8
+test,2020-12-26,Australia,India,Melbourne Cricket Ground,Melbourne,Australia,bat,India,,0,8
+test,2021-01-07,Australia,India,Sydney Cricket Ground,Sydney,Australia,bat,,draw,0,0
+test,2021-01-15,Australia,India,Brisbane Cricket Ground,Brisbane,Australia,bat,India,,0,3
+test,2020-07-08,England,West Indies,The Rose Bowl,Southampton,England,bat,West Indies,,0,4
+test,2020-07-16,England,West Indies,Old Trafford,Manchester,West Indies,field,England,,113,0
+test,2020-07-24,England,West Indies,Old Trafford,Manchester,West Indies,field,England,,269,0
+test,2020-12-03,New Zealand,West Indies,Seddon Park,Hamilton,West Indies,field,New Zealand,,134,0
+test,2020-12-11,New Zealand,West Indies,Basin Reserve,Wellington,West Indies,field,New Zealand,,12,0
+test,2020-12-26,New Zealand,Pakistan,Bay Oval,Mount Maunganui,Pakistan,field,New Zealand,,101,0
+test,2021-01-03,Pakistan,New Zealand,Hagley Oval,Christchurch,New Zealand,field,New Zealand,,176,0
+test,2020-12-26,Sri Lanka,South Africa,SuperSport Park,Centurion,Sri Lanka,bat,South Africa,,45,0
+test,2021-01-03,Sri Lanka,South Africa,The Wanderers Stadium,Johannesburg,Sri Lanka,bat,South Africa,,0,10
+test,2021-08-04,England,India,"Trent Bridge, Nottingham",Nottingham,England,bat,,draw,0,0
+test,2021-08-12,India,England,"Lord's, London",London,England,field,India,,151,0
+test,2021-08-25,India,England,"Headingley, Leeds",Leeds,India,bat,England,,76,0
+test,2021-09-02,India,England,"Kennington Oval, London",London,England,field,India,,157,0
+test,2021-01-14,Sri Lanka,England,Galle International Stadium,Galle,Sri Lanka,bat,England,,0,7
+test,2021-01-22,Sri Lanka,England,Galle International Stadium,Galle,Sri Lanka,bat,England,,0,6
+test,2021-01-26,South Africa,Pakistan,National Stadium,Karachi,South Africa,bat,Pakistan,,0,7
+test,2021-02-04,Pakistan,South Africa,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,bat,Pakistan,,95,0
+test,2021-02-05,England,India,MA Chidambaram Stadium,Chennai,England,bat,England,,227,0
+test,2021-02-13,India,England,MA Chidambaram Stadium,Chennai,India,bat,India,,317,0
+test,2021-02-24,England,India,Narendra Modi Stadium,Ahmedabad,England,bat,India,,0,10
+test,2021-03-04,England,India,Narendra Modi Stadium,Ahmedabad,England,bat,India,,25,0
+test,2021-02-03,Bangladesh,West Indies,Zahur Ahmed Chowdhury Stadium,Chattogram,Bangladesh,bat,West Indies,,0,3
+test,2021-02-11,West Indies,Bangladesh,Shere Bangla National Stadium,Dhaka,West Indies,bat,West Indies,,17,0
+test,2021-06-02,New Zealand,England,"Lord's, London",London,New Zealand,bat,,draw,0,0
+test,2021-06-10,England,New Zealand,"Edgbaston, Birmingham",Birmingham,England,bat,New Zealand,,0,8
+test,2021-06-18,India,New Zealand,"The Rose Bowl, Southampton",Southampton,New Zealand,field,New Zealand,,0,8
+test,2021-03-21,Sri Lanka,West Indies,Sir Vivian Richards Stadium,North Sound,West Indies,field,,draw,0,0
+test,2021-03-29,West Indies,Sri Lanka,Sir Vivian Richards Stadium,North Sound,Sri Lanka,field,,draw,0,0
+test,2021-04-21,Sri Lanka,Bangladesh,Pallekele International Cricket Stadium,Pallekele,Bangladesh,bat,,draw,0,0
+test,2021-04-29,Sri Lanka,Bangladesh,Pallekele International Cricket Stadium,Kandy,Sri Lanka,bat,Sri Lanka,,209,0
+test,2022-03-08,England,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,England,bat,,draw,0,0
+test,2022-03-16,England,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,England,bat,,draw,0,0
+test,2022-03-24,England,West Indies,"National Cricket Stadium, St George's, Grenada",St George's,West Indies,field,West Indies,,0,10
+test,2021-04-29,Zimbabwe,Pakistan,Harare Sports Club,Harare,Zimbabwe,bat,Pakistan,,116,0
+test,2021-05-07,Pakistan,Zimbabwe,Harare Sports Club,Harare,Pakistan,bat,Pakistan,,147,0
+test,2021-06-16,England,India,"County Ground, Bristol",Bristol,England,bat,,draw,0,0
+test,2021-06-10,West Indies,South Africa,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,bat,South Africa,,63,0
+test,2021-06-18,South Africa,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,field,South Africa,,158,0
+test,2021-08-12,Pakistan,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,West Indies,field,West Indies,,0,1
+test,2021-08-20,Pakistan,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,West Indies,field,Pakistan,,109,0
+test,2021-12-08,England,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,England,bat,Australia,,0,9
+test,2021-12-16,Australia,England,Adelaide Oval,Adelaide,Australia,bat,Australia,,275,0
+test,2021-12-26,England,Australia,Melbourne Cricket Ground,Melbourne,Australia,field,Australia,,14,0
+test,2022-01-05,Australia,England,Sydney Cricket Ground,Sydney,Australia,bat,,draw,0,0
+test,2022-01-14,Australia,England,"Bellerive Oval, Hobart",Hobart,England,field,Australia,,146,0
+test,2022-01-27,Australia,England,"Manuka Oval, Canberra",Canberra,England,field,,draw,0,0
+test,2021-09-30,India,Australia,Carrara Oval,Carrara,Australia,field,,draw,0,0
+test,2021-07-07,Bangladesh,Zimbabwe,Harare Sports Club,Harare,Bangladesh,bat,Bangladesh,,220,0
+test,2022-06-02,New Zealand,England,"Lord's, London",London,New Zealand,bat,England,,0,5
+test,2022-06-10,New Zealand,England,"Trent Bridge, Nottingham",Nottingham,England,field,England,,0,5
+test,2022-06-23,New Zealand,England,"Headingley, Leeds",Leeds,New Zealand,bat,England,,0,7
+test,2022-08-17,England,South Africa,"Lord's, London",London,South Africa,field,South Africa,,12,0
+test,2022-08-25,South Africa,England,"Old Trafford, Manchester",Manchester,South Africa,bat,England,,85,0
+test,2022-09-08,South Africa,England,"Kennington Oval, London",London,England,field,England,,0,9
+test,2021-12-26,India,South Africa,"SuperSport Park, Centurion",Centurion,India,bat,India,,113,0
+test,2022-01-03,India,South Africa,"The Wanderers Stadium, Johannesburg",Johannesburg,India,bat,South Africa,,0,7
+test,2022-01-11,India,South Africa,"Newlands, Cape Town",Cape Town,India,bat,South Africa,,0,7
+test,2022-03-31,South Africa,Bangladesh,"Kingsmead, Durban",Durban,Bangladesh,field,South Africa,,220,0
+test,2022-04-08,South Africa,Bangladesh,"St George's Park, Port Elizabeth",Gqeberha,South Africa,bat,South Africa,,332,0
+test,2021-11-26,Bangladesh,Pakistan,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Bangladesh,bat,Pakistan,,0,8
+test,2021-12-04,Pakistan,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Pakistan,bat,Pakistan,,8,0
+test,2021-11-25,India,New Zealand,"Green Park, Kanpur",Kanpur,India,bat,,draw,0,0
+test,2021-12-03,India,New Zealand,"Wankhede Stadium, Mumbai",Mumbai,India,bat,India,,372,0
+test,2022-03-04,India,Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,India,bat,India,,222,0
+test,2022-03-12,India,Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,India,bat,India,,238,0
+test,2022-03-04,Pakistan,Australia,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,bat,,draw,0,0
+test,2022-03-12,Australia,Pakistan,"National Stadium, Karachi",Karachi,Australia,bat,,draw,0,0
+test,2022-03-21,Australia,Pakistan,"Gaddafi Stadium, Lahore",Lahore,Australia,bat,Australia,,115,0
+test,2021-11-21,Sri Lanka,West Indies,Galle International Stadium,Galle,Sri Lanka,bat,Sri Lanka,,187,0
+test,2021-11-29,Sri Lanka,West Indies,Galle International Stadium,Galle,Sri Lanka,bat,Sri Lanka,,164,0
+test,2022-01-01,New Zealand,Bangladesh,"Bay Oval, Mount Maunganui",Mount Maunganui,Bangladesh,field,Bangladesh,,0,8
+test,2022-01-09,New Zealand,Bangladesh,"Hagley Oval, Christchurch",Christchurch,Bangladesh,field,New Zealand,,117,0
+test,2022-02-17,South Africa,New Zealand,"Hagley Oval, Christchurch",Christchurch,New Zealand,field,New Zealand,,276,0
+test,2022-02-25,South Africa,New Zealand,"Hagley Oval, Christchurch",Christchurch,South Africa,bat,South Africa,,198,0
+test,2022-06-27,South Africa,England,"The Cooper Associates County Ground, Taunton",Taunton,England,field,,draw,0,0
+test,2022-06-29,Sri Lanka,Australia,Galle International Stadium,Galle,Sri Lanka,bat,Australia,,0,10
+test,2022-07-08,Australia,Sri Lanka,Galle International Stadium,Galle,Australia,bat,Sri Lanka,,39,0
+test,2022-05-15,Sri Lanka,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Sri Lanka,bat,,draw,0,0
+test,2022-05-23,Bangladesh,Sri Lanka,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,Sri Lanka,,0,10
+test,2022-06-16,Bangladesh,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,West Indies,field,West Indies,,0,7
+test,2022-06-24,Bangladesh,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,West Indies,field,West Indies,,0,10
+test,2022-11-30,Australia,West Indies,Perth Stadium,Perth,Australia,bat,Australia,,164,0
+test,2022-12-08,Australia,West Indies,Adelaide Oval,Adelaide,Australia,bat,Australia,,419,0
+test,2022-12-17,South Africa,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,Australia,field,Australia,,0,6
+test,2022-12-26,South Africa,Australia,Melbourne Cricket Ground,Melbourne,Australia,field,Australia,,182,0
+test,2023-01-04,Australia,South Africa,Sydney Cricket Ground,Sydney,Australia,bat,,draw,0,0
+test,2022-07-01,India,England,"Edgbaston, Birmingham",Birmingham,England,field,England,,0,7
+test,2022-07-16,Sri Lanka,Pakistan,Galle International Stadium,Galle,Sri Lanka,bat,Pakistan,,0,4
+test,2022-07-24,Sri Lanka,Pakistan,Galle International Stadium,Galle,Sri Lanka,bat,Sri Lanka,,246,0
+test,2023-02-16,England,New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,New Zealand,field,England,,267,0
+test,2023-02-24,England,New Zealand,"Basin Reserve, Wellington",Wellington,New Zealand,field,New Zealand,,1,0
+test,2023-03-09,Sri Lanka,New Zealand,"Hagley Oval, Christchurch",Christchurch,New Zealand,field,New Zealand,,0,2
+test,2023-03-17,New Zealand,Sri Lanka,"Basin Reserve, Wellington",Wellington,Sri Lanka,field,New Zealand,,58,0
+test,2022-12-01,England,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,England,bat,England,,74,0
+test,2022-12-09,England,Pakistan,Multan Cricket Stadium,Multan,England,bat,England,,26,0
+test,2022-12-17,Pakistan,England,"National Stadium, Karachi",Karachi,Pakistan,bat,England,,0,8
+test,2023-06-16,England,Australia,"Edgbaston, Birmingham",Birmingham,England,bat,Australia,,0,2
+test,2023-06-28,Australia,England,"Lord's, London",London,England,field,Australia,,43,0
+test,2023-07-06,Australia,England,"Headingley, Leeds",Leeds,England,field,England,,0,3
+test,2023-07-19,Australia,England,"Old Trafford, Manchester",Manchester,England,field,,draw,0,0
+test,2023-07-27,England,Australia,"Kennington Oval, London",London,Australia,field,England,,49,0
+test,2023-06-22,Australia,England,"Trent Bridge, Nottingham",Nottingham,Australia,bat,Australia,,89,0
+test,2023-06-01,Ireland,England,"Lord's, London",London,England,field,England,,0,10
+test,2023-02-28,South Africa,West Indies,"SuperSport Park, Centurion",Centurion,South Africa,bat,South Africa,,87,0
+test,2023-03-08,South Africa,West Indies,"The Wanderers Stadium, Johannesburg",Johannesburg,South Africa,bat,South Africa,,284,0
+test,2022-12-26,Pakistan,New Zealand,"National Stadium, Karachi",Karachi,Pakistan,bat,,draw,0,0
+test,2023-01-02,New Zealand,Pakistan,"National Stadium, Karachi",Karachi,New Zealand,bat,,draw,0,0
+test,2022-12-14,India,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,India,bat,India,,188,0
+test,2022-12-22,Bangladesh,India,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,India,,0,3
+test,2023-02-09,Australia,India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Australia,bat,India,,132,0
+test,2023-02-17,Australia,India,"Arun Jaitley Stadium, Delhi",Delhi,Australia,bat,India,,0,6
+test,2023-03-01,India,Australia,"Holkar Cricket Stadium, Indore",Indore,India,bat,Australia,,0,9
+test,2023-03-09,Australia,India,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Australia,bat,,draw,0,0
+test,2023-02-04,West Indies,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,West Indies,bat,,draw,0,0
+test,2023-02-12,Zimbabwe,West Indies,"Queens Sports Club, Bulawayo",Bulawayo,Zimbabwe,bat,West Indies,,4,0
+test,2023-04-04,Ireland,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Ireland,bat,Bangladesh,,0,7
+test,2023-06-07,Australia,India,"Kennington Oval, London",London,India,field,Australia,,209,0
+test,2023-04-16,Sri Lanka,Ireland,Galle International Stadium,Galle,Sri Lanka,bat,Sri Lanka,,280,0
+test,2023-04-24,Ireland,Sri Lanka,Galle International Stadium,Galle,Ireland,bat,Sri Lanka,,10,0
+test,2023-12-14,Australia,Pakistan,Perth Stadium,Perth,Australia,bat,Australia,,360,0
+test,2023-12-26,Australia,Pakistan,Melbourne Cricket Ground,Melbourne,Pakistan,field,Australia,,79,0
+test,2024-01-03,Pakistan,Australia,Sydney Cricket Ground,Sydney,Pakistan,bat,Australia,,0,8
+test,2024-01-17,West Indies,Australia,Adelaide Oval,Adelaide,Australia,field,Australia,,0,10
+test,2024-01-25,West Indies,Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,West Indies,bat,West Indies,,8,0
+test,2024-02-15,South Africa,Australia,"Western Australia Cricket Association Ground, Perth",Perth,Australia,field,Australia,,284,0
+test,2023-07-12,West Indies,India,"Windsor Park, Roseau, Dominica",Roseau,West Indies,bat,India,,141,0
+test,2023-07-20,India,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,West Indies,field,,draw,0,0
+test,2023-07-16,Sri Lanka,Pakistan,Galle International Stadium,Galle,Sri Lanka,bat,Pakistan,,0,4
+test,2023-07-24,Sri Lanka,Pakistan,"Sinhalese Sports Club Ground, Colombo",Colombo,Sri Lanka,bat,Pakistan,,222,0
+test,2024-07-10,West Indies,England,"Lord's, London",London,England,field,England,,114,0
+test,2024-07-18,England,West Indies,"Trent Bridge, Nottingham",Nottingham,West Indies,field,England,,241,0
+test,2024-07-26,West Indies,England,"Edgbaston, Birmingham",Birmingham,West Indies,bat,England,,0,10
+test,2024-08-21,Sri Lanka,England,"Old Trafford, Manchester",Manchester,Sri Lanka,bat,England,,0,5
+test,2024-08-29,England,Sri Lanka,"Lord's, London",London,Sri Lanka,field,England,,190,0
+test,2024-09-06,England,Sri Lanka,"Kennington Oval, London",London,Sri Lanka,field,Sri Lanka,,0,8
+test,2023-12-26,India,South Africa,"SuperSport Park, Centurion",Centurion,South Africa,field,South Africa,,32,0
+test,2024-01-03,South Africa,India,"Newlands, Cape Town",Cape Town,South Africa,bat,India,,0,7
+test,2024-02-04,New Zealand,South Africa,"Bay Oval, Mount Maunganui",Mount Maunganui,South Africa,field,New Zealand,,281,0
+test,2024-02-13,South Africa,New Zealand,"Seddon Park, Hamilton",Hamilton,South Africa,bat,New Zealand,,0,7
+test,2024-02-29,Australia,New Zealand,"Basin Reserve, Wellington",Wellington,New Zealand,field,Australia,,172,0
+test,2024-03-08,New Zealand,Australia,"Hagley Oval, Christchurch",Christchurch,Australia,field,Australia,,0,3
+test,2024-01-25,England,India,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,England,bat,England,,28,0
+test,2024-02-02,India,England,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,India,bat,India,,106,0
+test,2024-02-15,India,England,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,India,bat,India,,434,0
+test,2024-02-23,England,India,"JSCA International Stadium Complex, Ranchi",Ranchi,England,bat,India,,0,5
+test,2024-03-07,England,India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,England,bat,India,,64,0
+test,2025-05-22,England,Zimbabwe,"Trent Bridge, Nottingham",Nottingham,Zimbabwe,field,England,,45,0
+test,2023-11-28,Bangladesh,New Zealand,Sylhet International Cricket Stadium,Sylhet,Bangladesh,bat,Bangladesh,,150,0
+test,2023-12-06,Bangladesh,New Zealand,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,New Zealand,,0,4
+test,2023-12-14,India,England,"Dr DY Patil Sports Academy, Mumbai",Navi Mumbai,India,bat,India,,347,0
+test,2023-12-21,Australia,India,"Wankhede Stadium, Mumbai",Mumbai,Australia,bat,India,,0,8
+test,2024-03-22,Sri Lanka,Bangladesh,Sylhet International Cricket Stadium,Sylhet,Bangladesh,field,Sri Lanka,,328,0
+test,2024-03-30,Sri Lanka,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Sri Lanka,bat,Sri Lanka,,192,0
+test,2024-11-22,India,Australia,Perth Stadium,Perth,India,bat,India,,295,0
+test,2024-12-06,India,Australia,Adelaide Oval,Adelaide,India,bat,Australia,,0,10
+test,2024-12-14,Australia,India,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,India,field,,draw,0,0
+test,2024-12-26,Australia,India,Melbourne Cricket Ground,Melbourne,Australia,bat,Australia,,184,0
+test,2025-01-03,India,Australia,Sydney Cricket Ground,Sydney,India,bat,Australia,,0,6
+test,2025-01-30,England,Australia,Melbourne Cricket Ground,Melbourne,Australia,field,Australia,,122,0
+test,2024-11-28,New Zealand,England,"Hagley Oval, Christchurch",Christchurch,England,field,England,,0,8
+test,2024-12-06,England,New Zealand,"Basin Reserve, Wellington",Wellington,New Zealand,field,England,,323,0
+test,2024-12-14,New Zealand,England,"Seddon Park, Hamilton",Hamilton,England,field,New Zealand,,423,0
+test,2024-07-25,Zimbabwe,Ireland,"Civil Service Cricket Club, Stormont, Belfast",Belfast,Ireland,field,Ireland,,0,4
+test,2024-11-27,South Africa,Sri Lanka,"Kingsmead, Durban",Durban,Sri Lanka,field,South Africa,,233,0
+test,2024-12-05,South Africa,Sri Lanka,"St George's Park, Gqeberha",Gqeberha,South Africa,bat,South Africa,,109,0
+test,2024-12-26,Pakistan,South Africa,"SuperSport Park, Centurion",Centurion,South Africa,field,South Africa,,0,2
+test,2025-01-03,South Africa,Pakistan,"Newlands, Cape Town",Cape Town,South Africa,bat,South Africa,,0,10
+test,2024-12-15,England,South Africa,"Mangaung Oval, Bloemfontein",Bloemfontein,England,bat,England,,286,0
+test,2024-08-07,South Africa,West Indies,"Queen's Park Oval, Port of Spain, Trinidad",Port of Spain,South Africa,bat,,draw,0,0
+test,2024-08-15,South Africa,West Indies,"Providence Stadium, Guyana",Providence,South Africa,bat,South Africa,,40,0
+test,2024-11-22,West Indies,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Bangladesh,field,West Indies,,201,0
+test,2024-11-30,Bangladesh,West Indies,"Sabina Park, Kingston, Jamaica",Kingston,Bangladesh,bat,Bangladesh,,101,0
+test,2024-06-28,India,South Africa,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,India,bat,India,,0,10
+test,2024-09-19,India,Bangladesh,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Bangladesh,field,India,,280,0
+test,2024-09-27,Bangladesh,India,"Green Park, Kanpur",Kanpur,India,field,India,,0,7
+test,2024-10-16,India,New Zealand,"M Chinnaswamy Stadium, Bengaluru",Bengaluru,India,bat,New Zealand,,0,8
+test,2024-10-24,New Zealand,India,"Maharashtra Cricket Association Stadium, Pune",Pune,New Zealand,bat,New Zealand,,113,0
+test,2024-11-01,New Zealand,India,"Wankhede Stadium, Mumbai",Mumbai,New Zealand,bat,New Zealand,,25,0
+test,2024-08-21,Pakistan,Bangladesh,Rawalpindi Cricket Stadium,Rawalpindi,Bangladesh,field,Bangladesh,,0,10
+test,2024-08-30,Pakistan,Bangladesh,Rawalpindi Cricket Stadium,Rawalpindi,Bangladesh,field,Bangladesh,,0,6
+test,2024-10-07,Pakistan,England,Multan Cricket Stadium,Multan,Pakistan,bat,England,,47,0
+test,2024-10-15,Pakistan,England,Multan Cricket Stadium,Multan,Pakistan,bat,Pakistan,,152,0
+test,2024-10-24,England,Pakistan,Rawalpindi Cricket Stadium,Rawalpindi,England,bat,Pakistan,,0,9
+test,2025-01-17,Pakistan,West Indies,Multan Cricket Stadium,Multan,Pakistan,bat,Pakistan,,127,0
+test,2025-01-25,West Indies,Pakistan,Multan Cricket Stadium,Multan,West Indies,bat,West Indies,,120,0
+test,2024-09-18,Sri Lanka,New Zealand,Galle International Stadium,Galle,Sri Lanka,bat,Sri Lanka,,63,0
+test,2024-09-26,Sri Lanka,New Zealand,Galle International Stadium,Galle,Sri Lanka,bat,Sri Lanka,,154,0
+test,2025-06-20,India,England,"Headingley, Leeds",Leeds,England,field,England,,0,5
+test,2025-06-11,Australia,South Africa,"Lord's, London",London,South Africa,field,South Africa,,0,5
+test,2024-10-21,Bangladesh,South Africa,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,bat,South Africa,,0,7
+test,2024-10-29,South Africa,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,South Africa,bat,South Africa,,273,0
+test,2025-01-29,Australia,Sri Lanka,Galle International Stadium,Galle,Australia,bat,Australia,,242,0
+test,2025-02-06,Sri Lanka,Australia,Galle International Stadium,Galle,Sri Lanka,bat,Australia,,0,9
+test,2025-02-06,Ireland,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,Ireland,bat,Ireland,,63,0
+test,2025-06-25,Australia,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Australia,bat,Australia,,159,0
+test,2025-04-20,Bangladesh,Zimbabwe,Sylhet International Cricket Stadium,Sylhet,Bangladesh,bat,Zimbabwe,,0,3
+test,2025-04-28,Zimbabwe,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",Chattogram,Zimbabwe,bat,Bangladesh,,106,0
+test,2025-06-17,Bangladesh,Sri Lanka,Galle International Stadium,Galle,Bangladesh,bat,,draw,0,0
+test,2025-06-25,Bangladesh,Sri Lanka,"Sinhalese Sports Club Ground, Colombo",Colombo,Bangladesh,bat,Sri Lanka,,78,0
+test,2005-04-21,West Indies,South Africa,Kensington Oval,Bridgetown,West Indies,bat,South Africa,,86,0
+test,2005-04-29,South Africa,West Indies,Antigua Recreation Ground,St John's,South Africa,bat,,draw,0,0
+test,2005-06-03,Bangladesh,England,Riverside Ground,Chester-le-Street,England,field,England,,27,0
+test,2005-08-07,New Zealand,Zimbabwe,Harare Sports Club,Harare,Zimbabwe,field,New Zealand,,294,0
+test,2005-08-15,Zimbabwe,New Zealand,Queens Sports Club,Bulawayo,Zimbabwe,bat,New Zealand,,46,0
+test,2005-08-24,Australia,England,"County Ground, New Road, Worcester",Worcester,England,field,England,,0,6
+test,2005-09-12,Bangladesh,Sri Lanka,R.Premadasa Stadium,Colombo,Sri Lanka,field,Sri Lanka,,96,0
+test,2005-09-13,Zimbabwe,India,Queens Sports Club,Bulawayo,Zimbabwe,bat,India,,90,0
+test,2005-09-20,Sri Lanka,Bangladesh,P Sara Oval,Colombo,Sri Lanka,bat,Sri Lanka,,69,0
+test,2005-10-14,Australia,ICC World XI,Sydney Cricket Ground,Sydney,Australia,bat,Australia,,210,0
+test,2006-08-08,England,India,"Grace Road, Leicester",Leicester,England,bat,,draw,0,0
+test,2006-07-13,England,Pakistan,Lord's,London,England,bat,,draw,0,0
+test,2006-07-27,Pakistan,England,Old Trafford,Manchester,Pakistan,bat,England,,120,0
+test,2006-08-04,England,Pakistan,Headingley,Leeds,England,bat,England,,167,0
+test,2006-08-17,England,Pakistan,Kennington Oval,London,Pakistan,field,England,,0,0
+test,2006-05-11,England,Sri Lanka,Lord's,London,England,bat,,draw,0,0
+test,2006-05-25,Sri Lanka,England,Edgbaston,Birmingham,Sri Lanka,bat,England,,0,6
+test,2006-06-02,Sri Lanka,England,Trent Bridge,Nottingham,Sri Lanka,bat,Sri Lanka,,134,0
+test,2005-11-12,Pakistan,England,Multan Cricket Stadium,Multan,Pakistan,bat,Pakistan,,22,0
+test,2005-11-17,West Indies,Australia,Bellerive Oval,Hobart,West Indies,bat,Australia,,0,9
+test,2005-11-20,Pakistan,England,Iqbal Stadium,Faisalabad,Pakistan,bat,,draw,0,0
+test,2005-12-18,India,Sri Lanka,Sardar Patel Stadium,Ahmedabad,India,bat,India,,259,0
+test,2005-12-26,Australia,South Africa,Melbourne Cricket Ground,,Australia,bat,Australia,,184,0
+test,2006-01-02,South Africa,Australia,Sydney Cricket Ground,,South Africa,bat,Australia,,0,8
+test,2006-01-21,Pakistan,India,Iqbal Stadium,Faisalabad,Pakistan,bat,,draw,0,0
+test,2006-01-29,Pakistan,India,National Stadium,Karachi,India,field,Pakistan,,341,0
+test,2006-02-28,Bangladesh,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chattogram,Bangladesh,bat,Sri Lanka,,0,8
+test,2006-03-08,Bangladesh,Sri Lanka,Shaheed Chandu Stadium,Bogra,Bangladesh,bat,Sri Lanka,,0,10
+test,2006-04-09,Bangladesh,Australia,Khan Shaheb Osman Ali Stadium,Fatullah,Bangladesh,bat,Australia,,0,3
+test,2006-03-09,New Zealand,West Indies,Eden Park,Auckland,West Indies,field,New Zealand,,27,0
+test,2006-03-09,England,India,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,England,bat,India,,0,9
+test,2006-03-16,South Africa,Australia,Newlands,Cape Town,South Africa,bat,Australia,,0,7
+test,2006-03-24,Australia,South Africa,Kingsmead,Durban,Australia,bat,Australia,,112,0
+test,2006-03-31,South Africa,Australia,The Wanderers Stadium,Johannesburg,South Africa,bat,Australia,,0,2
+test,2006-04-15,South Africa,New Zealand,SuperSport Park,Centurion,South Africa,bat,South Africa,,128,0
+test,2006-04-27,New Zealand,South Africa,Newlands,Cape Town,South Africa,field,,draw,0,0
+test,2006-05-05,New Zealand,South Africa,The Wanderers Stadium,Johannesburg,South Africa,field,South Africa,,0,4
+test,2006-04-03,Sri Lanka,Pakistan,Asgiriya Stadium,Kandy,Pakistan,field,Pakistan,,0,8
+test,2006-03-01,England,India,Vidarbha C.A. Ground,Nagpur,England,bat,,draw,0,0
+test,2006-06-02,India,West Indies,"Antigua Recreation Ground, St John's",Antigua,India,bat,,draw,0,0
+test,2006-06-10,India,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet",St Lucia,India,bat,,draw,0,0
+test,2006-06-22,West Indies,India,"Warner Park, Basseterre",St Kitts,West Indies,bat,,draw,0,0
+test,2006-06-30,India,West Indies,"Sabina Park, Kingston",Jamaica,India,bat,India,,49,0
+test,2006-07-27,South Africa,Sri Lanka,Sinhalese Sports Club Ground,Colombo,South Africa,bat,Sri Lanka,,153,0
+test,2006-08-04,South Africa,Sri Lanka,P Sara Oval,Colombo,South Africa,bat,Sri Lanka,,0,1
+test,2006-12-15,India,South Africa,The Wanderers Stadium,Johannesburg,India,bat,India,,123,0
+test,2006-12-26,South Africa,India,Kingsmead,Durban,South Africa,bat,South Africa,,174,0
+test,2007-01-02,India,South Africa,Newlands,Cape Town,India,bat,South Africa,,0,5
+test,2006-11-23,Australia,England,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Australia,bat,Australia,,277,0
+test,2006-12-01,England,Australia,Adelaide Oval,,England,bat,Australia,,0,6
+test,2006-12-14,Australia,England,W.A.C.A. Ground,Perth,Australia,bat,Australia,,206,0
+test,2006-12-26,England,Australia,Melbourne Cricket Ground,,England,bat,Australia,,99,0
+test,2007-01-02,England,Australia,Sydney Cricket Ground,,England,bat,Australia,,0,10
+test,2007-01-19,South Africa,Pakistan,St George's Park,Port Elizabeth,South Africa,bat,Pakistan,,0,5
+test,2007-01-26,Pakistan,South Africa,Newlands,Cape Town,South Africa,field,South Africa,,0,5
+test,2006-12-07,Sri Lanka,New Zealand,AMI Stadium,Christchurch,Sri Lanka,bat,New Zealand,,0,5
+test,2006-12-15,Sri Lanka,New Zealand,Basin Reserve,Wellington,Sri Lanka,bat,Sri Lanka,,217,0
+test,2006-11-11,West Indies,Pakistan,Gaddafi Stadium,Lahore,West Indies,bat,Pakistan,,0,9
+test,2006-11-19,Pakistan,West Indies,Multan Cricket Stadium,,Pakistan,bat,,draw,0,0
+test,2007-05-17,England,West Indies,Lord's,London,West Indies,field,,draw,0,0
+test,2007-05-25,England,West Indies,Headingley,Leeds,England,bat,England,,283,0
+test,2007-06-07,England,West Indies,Old Trafford,Manchester,England,bat,England,,60,0
+test,2007-06-15,West Indies,England,Riverside Ground,Chester-le-Street,England,field,England,,0,7
+test,2007-07-19,England,India,Lord's,London,England,bat,,draw,0,0
+test,2007-07-27,England,India,Trent Bridge,Nottingham,India,field,India,,0,7
+test,2007-08-09,India,England,Kennington Oval,London,India,bat,,draw,0,0
+test,2007-05-18,India,Bangladesh,Zahur Ahmed Chowdhury Stadium,Chattogram,India,bat,,draw,0,0
+test,2007-05-25,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",Dhaka,Bangladesh,field,India,,239,0
+test,2007-12-01,Sri Lanka,England,Asgiriya Stadium,Kandy,Sri Lanka,bat,Sri Lanka,,88,0
+test,2007-12-09,England,Sri Lanka,Sinhalese Sports Club Ground,Colombo,England,bat,,draw,0,0
+test,2007-12-18,Sri Lanka,England,Galle International Stadium,,England,field,,draw,0,0
+test,2007-11-08,Australia,Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Sri Lanka,field,Australia,,40,0
+test,2007-11-16,Australia,Sri Lanka,Bellerive Oval,Hobart,Australia,bat,Australia,,96,0
+test,2007-12-26,Australia,India,Melbourne Cricket Ground,,Australia,bat,Australia,,337,0
+test,2008-01-02,Australia,India,Sydney Cricket Ground,,Australia,bat,Australia,,122,0
+test,2008-01-16,Australia,India,Western Australia Cricket Association Ground,Perth,India,bat,India,,72,0
+test,2008-01-24,Australia,India,Adelaide Oval,,India,bat,,draw,0,0
+test,2007-06-25,Bangladesh,Sri Lanka,Sinhalese Sports Club Ground,Colombo,Sri Lanka,field,Sri Lanka,,234,0
+test,2007-07-03,Bangladesh,Sri Lanka,P Sara Oval,Colombo,Sri Lanka,field,Sri Lanka,,90,0
+test,2007-07-11,Bangladesh,Sri Lanka,Asgiriya Stadium,Kandy,Sri Lanka,field,Sri Lanka,,193,0
+test,2008-05-15,England,New Zealand,Lord's,London,England,field,,draw,0,0
+test,2008-05-23,England,New Zealand,Old Trafford,Manchester,New Zealand,bat,England,,0,6
+test,2008-06-05,England,New Zealand,Trent Bridge,Nottingham,New Zealand,field,England,,9,0
+test,2008-07-10,England,South Africa,Lord's,London,South Africa,field,,draw,0,0
+test,2008-07-18,England,South Africa,Headingley,Leeds,South Africa,field,South Africa,,0,10
+test,2008-07-30,England,South Africa,Edgbaston,Birmingham,England,bat,South Africa,,0,5
+test,2008-08-07,England,South Africa,Kennington Oval,London,South Africa,bat,England,,0,6
+test,2007-11-22,Pakistan,India,Arun Jaitley Stadium,Delhi,Pakistan,bat,India,,0,6
+test,2007-11-30,India,Pakistan,Eden Gardens,Kolkata,India,bat,,draw,0,0
+test,2007-12-08,India,Pakistan,M.Chinnaswamy Stadium,Bengaluru,India,bat,,draw,0,0
+test,2007-11-08,South Africa,New Zealand,The Wanderers Stadium,Johannesburg,South Africa,bat,South Africa,,358,0
+test,2007-11-16,New Zealand,South Africa,SuperSport Park,Centurion,New Zealand,bat,South Africa,,59,0
+test,2007-12-26,West Indies,South Africa,St George's Park,Port Elizabeth,South Africa,field,West Indies,,128,0
+test,2008-01-02,South Africa,West Indies,Newlands,Cape Town,West Indies,bat,South Africa,,0,7
+test,2008-01-10,South Africa,West Indies,Kingsmead,Durban,South Africa,field,South Africa,,100,0
+test,2007-10-01,South Africa,Pakistan,National Stadium,Karachi,South Africa,bat,South Africa,,160,0
+test,2007-10-08,South Africa,Pakistan,Gaddafi Stadium,Lahore,South Africa,bat,,draw,0,0
+test,2008-01-04,New Zealand,Bangladesh,University Oval,Dunedin,New Zealand,field,New Zealand,,0,9
+test,2008-01-12,New Zealand,Bangladesh,Basin Reserve,Wellington,New Zealand,field,New Zealand,,137,0
+test,2008-03-05,New Zealand,England,Seddon Park,Hamilton,New Zealand,bat,New Zealand,,189,0
+test,2008-03-13,New Zealand,England,Basin Reserve,Wellington,New Zealand,field,England,,126,0
+test,2008-03-22,New Zealand,England,McLean Park,Napier,England,bat,England,,121,0
+test,2008-02-15,Australia,England,"Bradman Oval, Bowral",Bowral,England,field,England,,0,6
+test,2008-03-22,West Indies,Sri Lanka,Providence Stadium,Guyana,Sri Lanka,bat,Sri Lanka,,121,0
+test,2008-04-03,West Indies,Sri Lanka,"Queen's Park Oval, Port of Spain",Trinidad,West Indies,field,West Indies,,0,6
+test,2008-05-22,West Indies,Australia,"Sabina Park, Kingston",Jamaica,Australia,bat,Australia,,95,0
+test,2008-05-30,West Indies,Australia,"Sir Vivian Richards Stadium, North Sound",Antigua,Australia,bat,,draw,0,0
+test,2008-06-12,West Indies,Australia,"Kensington Oval, Bridgetown",Barbados,West Indies,field,Australia,,87,0
+test,2008-02-22,Bangladesh,South Africa,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,South Africa,,0,5
+test,2008-02-29,Bangladesh,South Africa,Chittagong Divisional Stadium,,South Africa,bat,South Africa,,205,0
+test,2008-03-26,India,South Africa,"MA Chidambaram Stadium, Chepauk",Chennai,South Africa,bat,,draw,0,0
+test,2008-04-03,India,South Africa,"Sardar Patel Stadium, Motera",Ahmedabad,India,bat,South Africa,,90,0
+test,2008-04-11,India,South Africa,Green Park,Kanpur,South Africa,bat,India,,0,8
+test,2008-07-23,Sri Lanka,India,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,Sri Lanka,,239,0
+test,2008-07-31,Sri Lanka,India,Galle International Stadium,,India,bat,India,,170,0
+test,2008-08-08,Sri Lanka,India,P Saravanamuttu Stadium,Colombo,India,bat,Sri Lanka,,0,8
+test,2008-10-09,India,Australia,M Chinnaswamy Stadium,Bangalore,Australia,bat,,draw,0,0
+test,2008-10-17,India,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,bat,India,,320,0
+test,2008-10-29,India,Australia,Feroz Shah Kotla,Delhi,India,bat,,draw,0,0
+test,2008-11-06,India,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,bat,India,,172,0
+test,2009-07-08,England,Australia,Sophia Gardens,Cardiff,England,bat,,draw,0,0
+test,2009-07-16,England,Australia,Lord's,London,England,bat,England,,115,0
+test,2009-07-30,England,Australia,Edgbaston,Birmingham,Australia,bat,,draw,0,0
+test,2009-08-07,England,Australia,Headingley,Leeds,England,bat,Australia,,80,0
+test,2009-08-20,England,Australia,Kennington Oval,London,England,bat,England,,197,0
+test,2008-11-19,South Africa,Bangladesh,OUTsurance Oval,Bloemfontein,Bangladesh,field,South Africa,,129,0
+test,2008-11-26,South Africa,Bangladesh,SuperSport Park,Centurion,Bangladesh,bat,South Africa,,48,0
+test,2009-02-26,South Africa,Australia,New Wanderers Stadium,Johannesburg,Australia,bat,Australia,,162,0
+test,2009-03-06,South Africa,Australia,Kingsmead,Durban,Australia,bat,Australia,,175,0
+test,2009-03-19,South Africa,Australia,Newlands,Cape Town,Australia,bat,South Africa,,20,0
+test,2008-11-20,Australia,New Zealand,"Brisbane Cricket Ground, Woolloongabba",Brisbane,New Zealand,field,Australia,,149,0
+test,2008-11-28,Australia,New Zealand,Adelaide Oval,,New Zealand,bat,Australia,,62,0
+test,2008-12-17,Australia,South Africa,Western Australia Cricket Association Ground,Perth,Australia,bat,South Africa,,0,6
+test,2008-12-26,Australia,South Africa,Melbourne Cricket Ground,,Australia,bat,South Africa,,0,9
+test,2009-01-03,Australia,South Africa,Sydney Cricket Ground,,Australia,bat,Australia,,103,0
+test,2009-02-04,West Indies,England,"Sabina Park, Kingston",Jamaica,England,bat,West Indies,,23,0
+test,2009-02-13,West Indies,England,"Sir Vivian Richards Stadium, North Sound",Antigua,West Indies,field,,draw,0,0
+test,2009-02-26,West Indies,England,"Kensington Oval, Bridgetown",Barbados,England,bat,,draw,0,0
+test,2009-03-06,West Indies,England,"Queen's Park Oval, Port of Spain",Trinidad,England,bat,,draw,0,0
+test,2008-12-11,India,England,"MA Chidambaram Stadium, Chepauk",Chennai,England,bat,India,,0,6
+test,2008-12-19,India,England,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,bat,,draw,0,0
+test,2008-10-25,Bangladesh,New Zealand,Shere Bangla National Stadium,Mirpur,Bangladesh,field,,draw,0,0
+test,2009-03-18,New Zealand,India,Seddon Park,Hamilton,India,field,India,,0,10
+test,2009-04-03,New Zealand,India,Basin Reserve,Wellington,New Zealand,field,,draw,0,0
+test,2009-01-03,Bangladesh,Sri Lanka,Chittagong Divisional Stadium,,Sri Lanka,bat,Sri Lanka,,465,0
+test,2009-05-06,England,West Indies,Lord's,London,West Indies,field,England,,0,10
+test,2009-05-14,England,West Indies,Riverside Ground,Chester-le-Street,England,bat,England,,83,0
+test,2009-07-10,Australia,England,"County Ground, New Road, Worcester",Worcester,Australia,bat,,draw,0,0
+test,2009-03-26,New Zealand,India,McLean Park,Napier,New Zealand,bat,,draw,0,0
+test,2009-12-16,South Africa,England,SuperSport Park,Centurion,England,field,,draw,0,0
+test,2009-12-26,South Africa,England,Kingsmead,Durban,South Africa,bat,England,,98,0
+test,2010-01-03,South Africa,England,Newlands,Cape Town,England,field,,draw,0,0
+test,2010-01-14,South Africa,England,New Wanderers Stadium,Johannesburg,England,bat,South Africa,,74,0
+test,2009-02-21,Pakistan,Sri Lanka,National Stadium,Karachi,Sri Lanka,bat,,draw,0,0
+test,2009-03-01,Pakistan,Sri Lanka,Gaddafi Stadium,Lahore,Pakistan,field,,draw,0,0
+test,2009-02-15,West Indies,England,"Antigua Recreation Ground, St John's",Antigua,West Indies,field,,draw,0,0
+test,2009-07-09,West Indies,Bangladesh,"Arnos Vale Ground, Kingstown",St Vincent,Bangladesh,bat,Bangladesh,,95,0
+test,2009-07-17,West Indies,Bangladesh,"National Cricket Stadium, St George's",Grenada,Bangladesh,field,Bangladesh,,0,4
+test,2009-07-04,Sri Lanka,Pakistan,Galle International Stadium,,Pakistan,field,Sri Lanka,,50,0
+test,2009-07-12,Sri Lanka,Pakistan,P Sara Oval,Colombo,Pakistan,bat,Sri Lanka,,0,7
+test,2009-07-20,Sri Lanka,Pakistan,Sinhalese Sports Club Ground,Colombo,Sri Lanka,field,,draw,0,0
+test,2009-08-18,Sri Lanka,New Zealand,Galle International Stadium,,New Zealand,field,Sri Lanka,,202,0
+test,2009-08-26,Sri Lanka,New Zealand,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,Sri Lanka,,96,0
+test,2009-11-26,Australia,West Indies,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Australia,bat,Australia,,65,0
+test,2009-12-04,Australia,West Indies,Adelaide Oval,,West Indies,bat,,draw,0,0
+test,2009-12-16,Australia,West Indies,Western Australia Cricket Association Ground,Perth,Australia,bat,Australia,,35,0
+test,2009-12-26,Australia,Pakistan,Melbourne Cricket Ground,,Australia,bat,Australia,,170,0
+test,2010-01-03,Australia,Pakistan,Sydney Cricket Ground,,Australia,bat,Australia,,36,0
+test,2010-01-14,Australia,Pakistan,Bellerive Oval,Hobart,Australia,bat,Australia,,231,0
+test,2009-11-24,New Zealand,Pakistan,University Oval,Dunedin,Pakistan,field,New Zealand,,32,0
+test,2009-12-03,New Zealand,Pakistan,Basin Reserve,Wellington,New Zealand,field,Pakistan,,141,0
+test,2009-12-11,New Zealand,Pakistan,McLean Park,Napier,Pakistan,bat,,draw,0,0
+test,2010-02-15,New Zealand,Bangladesh,Seddon Park,Hamilton,Bangladesh,field,New Zealand,,121,0
+test,2010-03-19,New Zealand,Australia,Basin Reserve,Wellington,Australia,bat,Australia,,0,10
+test,2010-03-27,New Zealand,Australia,Seddon Park,Hamilton,Australia,bat,Australia,,176,0
+test,2010-07-13,Australia,Pakistan,Lord's,London,Pakistan,field,Australia,,150,0
+test,2010-07-21,Australia,Pakistan,Headingley,Leeds,Australia,bat,Pakistan,,0,3
+test,2010-05-27,England,Bangladesh,Lord's,London,Bangladesh,field,England,,0,8
+test,2010-06-04,England,Bangladesh,Old Trafford,Manchester,England,bat,England,,80,0
+test,2010-07-29,England,Pakistan,Trent Bridge,Nottingham,England,bat,England,,354,0
+test,2010-08-06,England,Pakistan,Edgbaston,Birmingham,Pakistan,bat,England,,0,9
+test,2010-08-18,England,Pakistan,Kennington Oval,London,England,bat,Pakistan,,0,4
+test,2010-08-26,England,Pakistan,Lord's,London,Pakistan,field,England,,225,0
+test,2010-03-12,Bangladesh,England,Zohur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,field,England,,181,0
+test,2010-03-20,Bangladesh,England,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,England,,0,9
+test,2010-11-25,Australia,England,"Brisbane Cricket Ground, Woolloongabba",Brisbane,England,bat,,draw,0,0
+test,2010-12-03,Australia,England,Adelaide Oval,,Australia,bat,England,,71,0
+test,2010-12-16,Australia,England,Western Australia Cricket Association Ground,Perth,England,field,Australia,,267,0
+test,2010-12-26,Australia,England,Melbourne Cricket Ground,,England,field,England,,157,0
+test,2011-01-03,Australia,England,Sydney Cricket Ground,,Australia,bat,England,,83,0
+test,2009-11-16,India,Sri Lanka,"Sardar Patel Stadium, Motera",Ahmedabad,India,bat,,draw,0,0
+test,2009-11-24,India,Sri Lanka,Green Park,Kanpur,India,bat,India,,144,0
+test,2009-12-02,India,Sri Lanka,Brabourne Stadium,Mumbai,Sri Lanka,bat,India,,24,0
+test,2010-01-17,Bangladesh,India,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,field,India,,113,0
+test,2010-01-24,Bangladesh,India,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,India,,0,10
+test,2010-06-10,West Indies,South Africa,"Queen's Park Oval, Port of Spain",Trinidad,South Africa,bat,South Africa,,163,0
+test,2010-06-18,West Indies,South Africa,"Warner Park, Basseterre",St Kitts,South Africa,bat,,draw,0,0
+test,2010-06-26,West Indies,South Africa,"Kensington Oval, Bridgetown",Barbados,West Indies,bat,South Africa,,0,7
+test,2010-02-06,India,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,South Africa,bat,South Africa,,6,0
+test,2010-02-14,India,South Africa,Eden Gardens,Kolkata,South Africa,bat,India,,57,0
+test,2010-07-18,Sri Lanka,India,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,0,10
+test,2010-07-26,Sri Lanka,India,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,,draw,0,0
+test,2010-08-03,Sri Lanka,India,P Sara Oval,Colombo,Sri Lanka,bat,India,,0,5
+test,2010-11-12,Pakistan,South Africa,Dubai International Cricket Stadium,,South Africa,bat,,draw,0,0
+test,2010-11-20,Pakistan,South Africa,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,field,,draw,0,0
+test,2010-12-16,South Africa,India,SuperSport Park,Centurion,South Africa,field,South Africa,,25,0
+test,2010-12-26,South Africa,India,Kingsmead,Durban,South Africa,field,India,,87,0
+test,2011-01-02,South Africa,India,Newlands,Cape Town,India,field,,draw,0,0
+test,2010-10-01,India,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Australia,bat,India,,0,1
+test,2010-10-09,India,Australia,M Chinnaswamy Stadium,Bangalore,Australia,bat,India,,0,7
+test,2010-11-04,India,New Zealand,"Sardar Patel Stadium, Motera",Ahmedabad,India,bat,,draw,0,0
+test,2010-11-12,India,New Zealand,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,New Zealand,bat,,draw,0,0
+test,2010-11-20,India,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,New Zealand,bat,India,,198,0
+test,2010-11-15,Sri Lanka,West Indies,Galle International Stadium,,West Indies,bat,,draw,0,0
+test,2010-11-23,Sri Lanka,West Indies,R Premadasa Stadium,Colombo,Sri Lanka,bat,,draw,0,0
+test,2010-12-01,Sri Lanka,West Indies,Pallekele International Cricket Stadium,,Sri Lanka,field,,draw,0,0
+test,2011-01-07,New Zealand,Pakistan,Seddon Park,Hamilton,Pakistan,field,Pakistan,,0,10
+test,2011-01-15,New Zealand,Pakistan,Basin Reserve,Wellington,New Zealand,bat,,draw,0,0
+test,2011-05-26,England,Sri Lanka,Sophia Gardens,Cardiff,Sri Lanka,bat,England,,14,0
+test,2011-06-03,England,Sri Lanka,Lord's,London,Sri Lanka,field,,draw,0,0
+test,2011-06-16,England,Sri Lanka,The Rose Bowl,Southampton,England,field,,draw,0,0
+test,2011-07-21,England,India,Lord's,London,India,field,England,,196,0
+test,2011-07-29,England,India,Trent Bridge,Nottingham,India,field,England,,319,0
+test,2011-08-10,England,India,Edgbaston,Birmingham,England,field,England,,242,0
+test,2011-08-18,England,India,Kennington Oval,London,England,bat,England,,8,0
+test,2011-01-22,England,Australia,"Bankstown Oval, Sydney",Sydney,England,bat,Australia,,0,7
+test,2011-05-12,West Indies,Pakistan,Providence Stadium,Guyana,West Indies,bat,West Indies,,40,0
+test,2011-05-20,West Indies,Pakistan,"Warner Park, Basseterre",St Kitts,Pakistan,bat,Pakistan,,196,0
+test,2011-06-20,West Indies,India,"Sabina Park, Kingston",Jamaica,India,bat,India,,63,0
+test,2011-06-28,West Indies,India,"Kensington Oval, Bridgetown",Barbados,West Indies,field,,draw,0,0
+test,2011-07-06,West Indies,India,"Windsor Park, Roseau",Dominica,India,field,,draw,0,0
+test,2011-11-09,South Africa,Australia,Newlands,Cape Town,South Africa,field,South Africa,,0,8
+test,2011-11-17,South Africa,Australia,New Wanderers Stadium,Johannesburg,South Africa,bat,Australia,,0,2
+test,2011-12-15,South Africa,Sri Lanka,SuperSport Park,Centurion,South Africa,field,South Africa,,81,0
+test,2011-12-26,South Africa,Sri Lanka,Kingsmead,Durban,Sri Lanka,bat,Sri Lanka,,208,0
+test,2012-01-03,South Africa,Sri Lanka,Newlands,Cape Town,Sri Lanka,field,South Africa,,0,10
+test,2011-08-31,Sri Lanka,Australia,Galle International Stadium,,Australia,bat,Australia,,125,0
+test,2011-09-08,Sri Lanka,Australia,Pallekele International Cricket Stadium,,Sri Lanka,bat,,draw,0,0
+test,2011-09-16,Sri Lanka,Australia,Sinhalese Sports Club Ground,Colombo,Sri Lanka,field,,draw,0,0
+test,2011-12-01,Australia,New Zealand,"Brisbane Cricket Ground, Woolloongabba",Brisbane,New Zealand,bat,Australia,,0,9
+test,2011-12-09,Australia,New Zealand,Bellerive Oval,Hobart,Australia,field,New Zealand,,7,0
+test,2011-12-26,Australia,India,Melbourne Cricket Ground,,Australia,bat,Australia,,122,0
+test,2012-01-03,Australia,India,Sydney Cricket Ground,,India,bat,Australia,,68,0
+test,2012-01-13,Australia,India,Western Australia Cricket Association Ground,Perth,Australia,field,Australia,,37,0
+test,2012-01-24,Australia,India,Adelaide Oval,,Australia,bat,Australia,,298,0
+test,2012-01-26,New Zealand,Zimbabwe,McLean Park,Napier,Zimbabwe,field,New Zealand,,301,0
+test,2012-03-07,New Zealand,South Africa,University Oval,Dunedin,New Zealand,field,,draw,0,0
+test,2012-03-15,New Zealand,South Africa,Seddon Park,Hamilton,South Africa,field,South Africa,,0,9
+test,2012-03-23,New Zealand,South Africa,Basin Reserve,Wellington,New Zealand,field,,draw,0,0
+test,2012-03-26,Sri Lanka,England,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,75,0
+test,2012-04-03,Sri Lanka,England,P Sara Oval,Colombo,Sri Lanka,bat,England,,0,8
+test,2011-08-04,Zimbabwe,Bangladesh,Harare Sports Club,,Bangladesh,field,Zimbabwe,,130,0
+test,2011-09-01,Zimbabwe,Pakistan,Queens Sports Club,Bulawayo,Pakistan,field,Pakistan,,0,7
+test,2011-11-01,Zimbabwe,New Zealand,Queens Sports Club,Bulawayo,New Zealand,bat,New Zealand,,34,0
+test,2011-10-18,Pakistan,Sri Lanka,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,field,,draw,0,0
+test,2011-10-26,Pakistan,Sri Lanka,Dubai International Cricket Stadium,,Sri Lanka,bat,Pakistan,,0,9
+test,2011-11-03,Pakistan,Sri Lanka,Sharjah Cricket Stadium,,Sri Lanka,bat,,draw,0,0
+test,2012-01-17,England,Pakistan,Dubai International Cricket Stadium,,England,bat,Pakistan,,0,10
+test,2012-01-25,England,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,bat,Pakistan,,72,0
+test,2012-02-03,England,Pakistan,Dubai International Cricket Stadium,,Pakistan,bat,Pakistan,,71,0
+test,2011-10-21,Bangladesh,West Indies,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,bat,,draw,0,0
+test,2011-10-29,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur,West Indies,bat,West Indies,,229,0
+test,2012-05-17,England,West Indies,Lord's,London,England,field,England,,0,5
+test,2012-05-25,England,West Indies,Trent Bridge,Nottingham,West Indies,bat,England,,0,9
+test,2012-06-07,England,West Indies,Edgbaston,Birmingham,England,field,,draw,0,0
+test,2012-07-19,England,South Africa,Kennington Oval,London,England,bat,South Africa,,12,0
+test,2012-08-02,England,South Africa,Headingley,Leeds,England,field,,draw,0,0
+test,2012-08-16,England,South Africa,Lord's,London,South Africa,bat,South Africa,,51,0
+test,2011-11-06,India,West Indies,Feroz Shah Kotla,Delhi,West Indies,bat,India,,0,5
+test,2011-11-14,India,West Indies,Eden Gardens,Kolkata,India,bat,India,,15,0
+test,2011-11-22,India,West Indies,Wankhede Stadium,Mumbai,West Indies,bat,,draw,0,0
+test,2011-12-09,Bangladesh,Pakistan,Zahur Ahmed Chowdhury Stadium,Chittagong,Pakistan,field,Pakistan,,184,0
+test,2011-12-17,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur,Pakistan,field,Pakistan,,0,7
+test,2012-04-07,West Indies,Australia,"Kensington Oval, Bridgetown",Barbados,West Indies,bat,Australia,,0,3
+test,2012-04-15,West Indies,Australia,"Queen's Park Oval, Port of Spain",Trinidad,Australia,bat,,draw,0,0
+test,2012-04-23,West Indies,Australia,"Windsor Park, Roseau",Dominica,Australia,bat,Australia,,75,0
+test,2012-07-25,West Indies,New Zealand,"Sir Vivian Richards Stadium, North Sound",Antigua,New Zealand,bat,West Indies,,0,9
+test,2012-08-02,West Indies,New Zealand,"Sabina Park, Kingston",Jamaica,West Indies,field,West Indies,,0,5
+test,2012-06-22,Sri Lanka,Pakistan,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,209,0
+test,2012-06-30,Sri Lanka,Pakistan,Sinhalese Sports Club Ground,Colombo,Sri Lanka,field,,draw,0,0
+test,2012-07-08,Sri Lanka,Pakistan,Pallekele International Cricket Stadium,,Sri Lanka,field,,draw,0,0
+test,2012-11-15,India,England,"Sardar Patel Stadium, Motera",Ahmedabad,India,bat,India,,0,9
+test,2012-11-23,India,England,Wankhede Stadium,Mumbai,India,bat,England,,0,10
+test,2012-12-05,India,England,Eden Gardens,Kolkata,India,bat,England,,0,7
+test,2012-12-13,India,England,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,England,bat,,draw,0,0
+test,2012-08-23,India,New Zealand,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,India,bat,India,,115,0
+test,2012-08-31,India,New Zealand,M Chinnaswamy Stadium,Bangalore,New Zealand,bat,India,,0,5
+test,2013-05-16,England,New Zealand,Lord's,London,England,bat,England,,170,0
+test,2013-05-24,England,New Zealand,Headingley,Leeds,England,bat,England,,247,0
+test,2013-07-10,England,Australia,Trent Bridge,Nottingham,England,bat,England,,14,0
+test,2013-07-18,England,Australia,Lord's,London,England,bat,England,,347,0
+test,2013-08-01,England,Australia,Old Trafford,Manchester,Australia,bat,,draw,0,0
+test,2013-08-09,England,Australia,Riverside Ground,Chester-le-Street,England,bat,England,,74,0
+test,2013-08-21,England,Australia,Kennington Oval,London,Australia,bat,,draw,0,0
+test,2013-01-02,South Africa,New Zealand,Newlands,Cape Town,New Zealand,bat,South Africa,,27,0
+test,2013-01-11,South Africa,New Zealand,St George's Park,Port Elizabeth,South Africa,bat,South Africa,,193,0
+test,2013-02-01,South Africa,Pakistan,New Wanderers Stadium,Johannesburg,South Africa,bat,South Africa,,211,0
+test,2013-02-14,South Africa,Pakistan,Newlands,Cape Town,South Africa,field,South Africa,,0,4
+test,2013-02-22,South Africa,Pakistan,SuperSport Park,Centurion,South Africa,bat,South Africa,,18,0
+test,2013-03-06,New Zealand,England,University Oval,Dunedin,New Zealand,field,,draw,0,0
+test,2013-03-14,New Zealand,England,Basin Reserve,Wellington,New Zealand,field,,draw,0,0
+test,2013-03-22,New Zealand,England,Eden Park,Auckland,England,field,,draw,0,0
+test,2012-11-09,Australia,South Africa,"Brisbane Cricket Ground, Woolloongabba",Brisbane,South Africa,bat,,draw,0,0
+test,2012-11-22,Australia,South Africa,Adelaide Oval,,Australia,bat,,draw,0,0
+test,2012-11-30,Australia,South Africa,Western Australia Cricket Association Ground,Perth,South Africa,bat,South Africa,,309,0
+test,2012-12-14,Australia,Sri Lanka,Bellerive Oval,Hobart,Australia,bat,Australia,,137,0
+test,2012-12-26,Australia,Sri Lanka,Melbourne Cricket Ground,,Sri Lanka,bat,Australia,,201,0
+test,2013-01-03,Australia,Sri Lanka,Sydney Cricket Ground,,Australia,field,Australia,,0,5
+test,2012-11-17,Sri Lanka,New Zealand,Galle International Stadium,,New Zealand,bat,Sri Lanka,,0,10
+test,2012-11-25,Sri Lanka,New Zealand,P Sara Oval,Colombo,New Zealand,bat,New Zealand,,167,0
+test,2012-11-13,Bangladesh,West Indies,Shere Bangla National Stadium,Mirpur,West Indies,bat,West Indies,,77,0
+test,2012-11-21,Bangladesh,West Indies,Sheikh Abu Naser Stadium,Khulna,Bangladesh,bat,West Indies,,0,10
+test,2013-11-21,Australia,England,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Australia,bat,Australia,,381,0
+test,2013-12-05,Australia,England,Adelaide Oval,,Australia,bat,Australia,,218,0
+test,2013-12-13,Australia,England,Western Australia Cricket Association Ground,Perth,Australia,bat,Australia,,150,0
+test,2013-12-26,Australia,England,Melbourne Cricket Ground,,Australia,field,Australia,,0,8
+test,2014-01-03,Australia,England,Sydney Cricket Ground,,England,field,Australia,,281,0
+test,2013-08-11,England,Australia,Sir Paul Getty's Ground,Wormsley,Australia,bat,,draw,0,0
+test,2013-03-12,West Indies,Zimbabwe,"Kensington Oval, Bridgetown",Barbados,Zimbabwe,bat,West Indies,,0,9
+test,2013-03-20,West Indies,Zimbabwe,"Windsor Park, Roseau",Dominica,West Indies,field,West Indies,,65,0
+test,2013-02-22,India,Australia,"MA Chidambaram Stadium, Chepauk",Chennai,Australia,bat,India,,0,8
+test,2013-03-02,India,Australia,"Rajiv Gandhi International Stadium, Uppal",Hyderabad,Australia,bat,India,,135,0
+test,2013-03-14,India,Australia,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Australia,bat,India,,0,6
+test,2013-03-22,India,Australia,Feroz Shah Kotla,Delhi,Australia,bat,India,,0,6
+test,2013-03-08,Sri Lanka,Bangladesh,Galle International Stadium,,Sri Lanka,bat,,draw,0,0
+test,2013-03-16,Sri Lanka,Bangladesh,R Premadasa Stadium,Colombo,Sri Lanka,field,Sri Lanka,,0,7
+test,2013-04-17,Zimbabwe,Bangladesh,Harare Sports Club,,Bangladesh,field,Zimbabwe,,335,0
+test,2013-04-25,Zimbabwe,Bangladesh,Harare Sports Club,,Zimbabwe,field,Bangladesh,,143,0
+test,2001-12-19,England,India,"M Chinnaswamy Stadium, Bangalore",Bengaluru,England,bat,,draw,0,0
+test,2002-12-26,Australia,England,Melbourne Cricket Ground,Melbourne,Australia,bat,Australia,,0,5
+test,2003-01-02,England,Australia,Sydney Cricket Ground,Sydney,England,bat,England,,225,0
+test,2002-12-26,South Africa,Pakistan,"Kingsmead, Durban",Durban,Pakistan,field,South Africa,,0,10
+test,2003-01-02,South Africa,Pakistan,"Newlands, Cape Town",Cape Town,South Africa,bat,South Africa,,142,0
+test,2003-05-09,Australia,West Indies,"Antigua Recreation Ground, St John's, Antigua",St John's,Australia,bat,West Indies,,0,3
+test,2003-07-18,Bangladesh,Australia,"Marrara Cricket Ground, Darwin",Darwin,Australia,field,Australia,,132,0
+test,2003-07-24,South Africa,England,"Edgbaston, Birmingham",Birmingham,South Africa,bat,,draw,0,0
+test,2003-08-14,England,South Africa,"Trent Bridge, Nottingham",Nottingham,England,bat,England,,70,0
+test,2003-08-21,South Africa,England,"Headingley, Leeds",Leeds,South Africa,bat,South Africa,,191,0
+test,2003-09-04,South Africa,England,"Kennington Oval, London",London,South Africa,bat,England,,0,9
+test,2003-09-03,Bangladesh,Pakistan,Multan Cricket Stadium,Multan,Bangladesh,bat,Pakistan,,0,1
+test,2003-10-16,New Zealand,India,"Punjab Cricket Association Stadium, Mohali, Chandigarh",Chandigarh,New Zealand,bat,,draw,0,0
+test,2003-10-09,Australia,Zimbabwe,"Western Australia Cricket Association Ground, Perth",Perth,Zimbabwe,field,Australia,,175,0
+test,2003-10-17,Zimbabwe,Australia,Sydney Cricket Ground,Sydney,Zimbabwe,bat,Australia,,0,9
+test,2003-10-17,South Africa,Pakistan,"Gaddafi Stadium, Lahore",Lahore,South Africa,bat,Pakistan,,0,8
+test,2003-10-24,South Africa,Pakistan,"Iqbal Stadium, Faisalabad",Faisalabad,South Africa,bat,,draw,0,0
+test,2003-10-21,Bangladesh,England,"Bangabandhu National Stadium, Dhaka",Dhaka,Bangladesh,bat,England,,0,7
+test,2003-10-29,England,Bangladesh,"MA Aziz Stadium, Chittagong",Chattogram,Bangladesh,field,England,,329,0
+test,2003-11-12,West Indies,Zimbabwe,"Queens Sports Club, Bulawayo",Bulawayo,West Indies,bat,West Indies,,128,0
+test,2003-12-18,England,Sri Lanka,"Sinhalese Sports Club Ground, Colombo",Colombo,England,bat,Sri Lanka,,215,0
+test,2003-12-04,Australia,India,"Brisbane Cricket Ground, Woolloongabba, Brisbane",Brisbane,India,field,,draw,0,0
+test,2004-01-02,India,Australia,Sydney Cricket Ground,Sydney,India,bat,,draw,0,0
+test,2003-12-12,South Africa,West Indies,"New Wanderers Stadium, Johannesburg",Johannesburg,South Africa,bat,South Africa,,189,0
+test,2004-03-08,Australia,Sri Lanka,Galle International Stadium,Galle,Australia,bat,Australia,,197,0
+test,2004-03-18,South Africa,New Zealand,Eden Park,Auckland,New Zealand,field,New Zealand,,0,9
+test,2004-03-26,New Zealand,South Africa,"Basin Reserve, Wellington",Wellington,South Africa,field,South Africa,,0,6
+test,2004-04-10,West Indies,England,Antigua Recreation Ground,St John's,West Indies,bat,,draw,0,0
+test,2004-04-13,Pakistan,India,Rawalpindi Cricket Stadium,Rawalpindi,India,field,India,,131,0
+test,2004-07-29,England,West Indies,Edgbaston,Birmingham,England,bat,England,,256,0
+test,2004-08-19,England,West Indies,Kennington Oval,London,England,bat,England,,0,10
+test,2004-10-14,Australia,India,MA Chidambaram Stadium,Chennai,Australia,bat,,draw,0,0
+test,2004-11-03,India,Australia,Wankhede Stadium,Mumbai,India,bat,India,,13,0
+test,2004-10-26,New Zealand,Bangladesh,MA Aziz Stadium,Chattogram,New Zealand,bat,New Zealand,,101,0
+test,2004-11-18,New Zealand,Australia,Brisbane Cricket Ground,Brisbane,New Zealand,bat,Australia,,156,0
+test,2004-11-26,Australia,New Zealand,Adelaide Oval,Adelaide,Australia,bat,Australia,,213,0
+test,2004-11-20,South Africa,India,Green Park,Kanpur,South Africa,bat,,draw,0,0
+test,2004-11-28,South Africa,India,Eden Gardens,Kolkata,South Africa,bat,India,,0,8
+test,2004-12-10,Bangladesh,India,Bangabandhu National Stadium,Dhaka,India,field,India,,140,0
+test,2004-12-16,Australia,Pakistan,W.A.C.A. Ground,Perth,Pakistan,field,Australia,,491,0
+test,2005-01-02,South Africa,England,Newlands,Cape Town,South Africa,bat,South Africa,,196,0
+test,2005-03-04,Zimbabwe,South Africa,Newlands,Cape Town,Zimbabwe,bat,South Africa,,21,0
+test,2005-03-11,Zimbabwe,South Africa,SuperSport Park,Centurion,South Africa,field,South Africa,,62,0
+test,2005-03-10,New Zealand,Australia,AMI Stadium,Christchurch,Australia,field,Australia,,0,9
+test,2005-03-18,Australia,New Zealand,Basin Reserve,Wellington,New Zealand,field,,draw,0,0
+test,2005-04-11,Sri Lanka,New Zealand,Basin Reserve,Wellington,New Zealand,field,New Zealand,,38,0
+test,2013-12-18,South Africa,India,New Wanderers Stadium,Johannesburg,India,bat,,draw,0,0
+test,2013-12-26,South Africa,India,Kingsmead,Durban,India,bat,South Africa,,0,10
+test,2014-02-12,South Africa,Australia,SuperSport Park,Centurion,South Africa,field,Australia,,281,0
+test,2014-02-20,South Africa,Australia,St George's Park,Port Elizabeth,South Africa,bat,South Africa,,231,0
+test,2014-03-01,South Africa,Australia,Newlands,Cape Town,Australia,bat,Australia,,245,0
+test,2013-10-14,Pakistan,South Africa,Sheikh Zayed Stadium,Abu Dhabi,South Africa,bat,Pakistan,,0,7
+test,2013-10-23,Pakistan,South Africa,Dubai International Cricket Stadium,,Pakistan,bat,South Africa,,92,0
+test,2013-12-31,Pakistan,Sri Lanka,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,field,,draw,0,0
+test,2014-01-08,Pakistan,Sri Lanka,Dubai International Cricket Stadium,,Sri Lanka,field,Sri Lanka,,0,9
+test,2014-01-16,Pakistan,Sri Lanka,Sharjah Cricket Stadium,,Sri Lanka,bat,Pakistan,,0,5
+test,2013-09-03,Zimbabwe,Pakistan,Harare Sports Club,,Zimbabwe,field,Pakistan,,221,0
+test,2013-09-10,Zimbabwe,Pakistan,Harare Sports Club,,Zimbabwe,bat,Zimbabwe,,24,0
+test,2013-12-03,New Zealand,West Indies,University Oval,Dunedin,West Indies,field,,draw,0,0
+test,2013-12-11,New Zealand,West Indies,Basin Reserve,Wellington,West Indies,field,New Zealand,,73,0
+test,2013-12-19,New Zealand,West Indies,Seddon Park,Hamilton,New Zealand,field,New Zealand,,0,8
+test,2014-02-06,New Zealand,India,Eden Park,Auckland,India,field,New Zealand,,40,0
+test,2014-02-14,New Zealand,India,Basin Reserve,Wellington,India,field,,draw,0,0
+test,2014-07-09,England,India,Trent Bridge,Nottingham,India,bat,,draw,0,0
+test,2014-07-17,England,India,Lord's,London,England,field,India,,95,0
+test,2014-07-27,England,India,The Rose Bowl,Southampton,England,bat,England,,266,0
+test,2014-08-07,England,India,Old Trafford,Manchester,India,bat,England,,54,0
+test,2014-08-15,England,India,Kennington Oval,London,England,field,England,,244,0
+test,2014-06-12,England,Sri Lanka,Lord's,London,Sri Lanka,field,,draw,0,0
+test,2014-06-20,England,Sri Lanka,Headingley,Leeds,England,field,Sri Lanka,,100,0
+test,2013-10-09,Bangladesh,New Zealand,Zahur Ahmed Chowdhury Stadium,Chittagong,New Zealand,bat,,draw,0,0
+test,2013-10-21,Bangladesh,New Zealand,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,,draw,0,0
+test,2003-02-22,Australia,England,"Bankstown Oval, Sydney",Sydney,England,field,,draw,0,0
+test,2013-11-06,India,West Indies,Eden Gardens,Kolkata,West Indies,bat,India,,51,0
+test,2013-11-14,India,West Indies,Wankhede Stadium,Mumbai,India,field,India,,126,0
+test,2014-01-27,Bangladesh,Sri Lanka,Shere Bangla National Stadium,Mirpur,Sri Lanka,field,Sri Lanka,,248,0
+test,2014-02-04,Bangladesh,Sri Lanka,Zahur Ahmed Chowdhury Stadium,Chittagong,Sri Lanka,bat,,draw,0,0
+test,2014-12-17,South Africa,West Indies,SuperSport Park,Centurion,West Indies,field,South Africa,,220,0
+test,2014-12-26,South Africa,West Indies,St George's Park,Port Elizabeth,West Indies,field,,draw,0,0
+test,2015-01-02,South Africa,West Indies,Newlands,Cape Town,West Indies,bat,South Africa,,0,8
+test,2014-08-13,England,India,Sir Paul Getty's Ground,Wormsley,India,field,India,,0,6
+test,2014-10-22,Australia,Pakistan,Dubai International Cricket Stadium,,Pakistan,bat,Pakistan,,221,0
+test,2014-10-30,Australia,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,bat,Pakistan,,356,0
+test,2014-07-16,Sri Lanka,South Africa,Galle International Stadium,,South Africa,bat,South Africa,,153,0
+test,2014-07-24,Sri Lanka,South Africa,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,,draw,0,0
+test,2014-06-08,West Indies,New Zealand,"Sabina Park, Kingston",Jamaica,New Zealand,bat,New Zealand,,186,0
+test,2014-06-16,West Indies,New Zealand,"Queen's Park Oval, Port of Spain",Trinidad,New Zealand,bat,West Indies,,0,10
+test,2014-06-26,West Indies,New Zealand,"Kensington Oval, Bridgetown",Barbados,New Zealand,bat,New Zealand,,53,0
+test,2014-09-05,West Indies,Bangladesh,"Arnos Vale Ground, Kingstown",St Vincent,Bangladesh,field,West Indies,,0,10
+test,2014-09-13,West Indies,Bangladesh,"Beausejour Stadium, Gros Islet",St Lucia,Bangladesh,field,West Indies,,296,0
+test,2014-08-09,Zimbabwe,South Africa,Harare Sports Club,,Zimbabwe,bat,South Africa,,0,9
+test,2014-11-09,New Zealand,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,bat,Pakistan,,248,0
+test,2014-11-17,New Zealand,Pakistan,Dubai International Cricket Stadium,,New Zealand,bat,,draw,0,0
+test,2014-11-26,New Zealand,Pakistan,Sharjah Cricket Stadium,,Pakistan,bat,New Zealand,,80,0
+test,2015-05-21,England,New Zealand,Lord's,London,New Zealand,field,England,,124,0
+test,2015-05-29,England,New Zealand,Headingley,Leeds,England,field,New Zealand,,199,0
+test,2015-07-08,England,Australia,Sophia Gardens,Cardiff,England,bat,England,,169,0
+test,2015-07-16,England,Australia,Lord's,London,Australia,bat,Australia,,405,0
+test,2015-07-29,England,Australia,Edgbaston,Birmingham,Australia,bat,England,,0,8
+test,2015-08-06,England,Australia,Trent Bridge,Nottingham,England,field,England,,78,0
+test,2015-08-20,England,Australia,Kennington Oval,London,England,field,Australia,,46,0
+test,2014-08-06,Sri Lanka,Pakistan,Galle International Stadium,,Pakistan,bat,Sri Lanka,,0,7
+test,2014-08-14,Sri Lanka,Pakistan,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,Sri Lanka,,105,0
+test,2014-12-26,New Zealand,Sri Lanka,Hagley Oval,Christchurch,Sri Lanka,field,New Zealand,,0,8
+test,2015-01-03,New Zealand,Sri Lanka,Basin Reserve,Wellington,Sri Lanka,field,New Zealand,,193,0
+test,2014-12-09,Australia,India,Adelaide Oval,,Australia,bat,Australia,,48,0
+test,2014-12-17,Australia,India,"Brisbane Cricket Ground, Woolloongabba",Brisbane,India,bat,Australia,,0,4
+test,2014-12-26,Australia,India,Melbourne Cricket Ground,,Australia,bat,,draw,0,0
+test,2015-01-06,Australia,India,Sydney Cricket Ground,,Australia,bat,,draw,0,0
+test,2014-10-25,Bangladesh,Zimbabwe,Shere Bangla National Stadium,Mirpur,Zimbabwe,bat,Bangladesh,,0,3
+test,2014-11-03,Bangladesh,Zimbabwe,Sheikh Abu Naser Stadium,Khulna,Bangladesh,bat,Bangladesh,,162,0
+test,2014-11-12,Bangladesh,Zimbabwe,Zahur Ahmed Chowdhury Stadium,Chittagong,Bangladesh,bat,Bangladesh,,186,0
+test,2015-04-13,West Indies,England,"Sir Vivian Richards Stadium, North Sound",Antigua,West Indies,field,,draw,0,0
+test,2015-04-21,West Indies,England,"National Cricket Stadium, St George's",Grenada,England,field,England,,0,9
+test,2015-05-01,West Indies,England,"Kensington Oval, Bridgetown",Barbados,England,bat,West Indies,,0,5
+test,2015-08-11,England,Australia,St Lawrence Ground,Canterbury,Australia,bat,Australia,,161,0
+test,2015-12-26,South Africa,England,Kingsmead,Durban,South Africa,field,England,,241,0
+test,2016-01-02,South Africa,England,Newlands,Cape Town,England,bat,,draw,0,0
+test,2016-01-14,South Africa,England,New Wanderers Stadium,Johannesburg,South Africa,bat,England,,0,7
+test,2016-01-22,South Africa,England,SuperSport Park,Centurion,South Africa,bat,South Africa,,280,0
+test,2015-06-03,West Indies,Australia,"Windsor Park, Roseau",Dominica,West Indies,bat,Australia,,0,9
+test,2015-06-11,West Indies,Australia,"Sabina Park, Kingston",Jamaica,West Indies,field,Australia,,277,0
+test,2015-07-21,Bangladesh,South Africa,Zahur Ahmed Chowdhury Stadium,Chittagong,South Africa,bat,,draw,0,0
+test,2015-07-30,Bangladesh,South Africa,Shere Bangla National Stadium,Mirpur,Bangladesh,bat,,draw,0,0
+test,2015-04-28,Bangladesh,Pakistan,Sheikh Abu Naser Stadium,Khulna,Bangladesh,bat,,draw,0,0
+test,2015-05-06,Bangladesh,Pakistan,Shere Bangla National Stadium,Mirpur,Bangladesh,field,Pakistan,,328,0
+test,2015-06-17,Sri Lanka,Pakistan,Galle International Stadium,,Pakistan,field,Pakistan,,0,10
+test,2015-06-25,Sri Lanka,Pakistan,P Sara Oval,Colombo,Pakistan,bat,Sri Lanka,,0,7
+test,2015-07-03,Sri Lanka,Pakistan,Pallekele International Cricket Stadium,,Pakistan,field,Pakistan,,0,7
+test,2015-06-10,Bangladesh,India,Khan Shaheb Osman Ali Stadium,Fatullah,India,bat,,draw,0,0
+test,2015-11-05,Australia,New Zealand,"Brisbane Cricket Ground, Woolloongabba",Brisbane,Australia,bat,Australia,,208,0
+test,2015-11-13,Australia,New Zealand,Western Australia Cricket Association Ground,Perth,Australia,bat,,draw,0,0
+test,2015-11-27,Australia,New Zealand,Adelaide Oval,,New Zealand,bat,Australia,,0,3
+test,2015-12-10,Australia,West Indies,Bellerive Oval,Hobart,Australia,bat,Australia,,212,0
+test,2015-12-26,Australia,West Indies,Melbourne Cricket Ground,,West Indies,field,Australia,,177,0
+test,2016-01-03,Australia,West Indies,Sydney Cricket Ground,,West Indies,bat,,draw,0,0
+test,2015-08-12,Sri Lanka,India,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,63,0
+test,2015-08-20,Sri Lanka,India,P Sara Oval,Colombo,India,bat,India,,278,0
+test,2015-08-28,Sri Lanka,India,Sinhalese Sports Club Ground,Colombo,Sri Lanka,field,India,,117,0
+test,2015-10-13,England,Pakistan,Sheikh Zayed Stadium,Abu Dhabi,Pakistan,bat,,draw,0,0
+test,2015-10-22,England,Pakistan,Dubai International Cricket Stadium,,Pakistan,bat,Pakistan,,178,0
+test,2015-11-01,England,Pakistan,Sharjah Cricket Stadium,,Pakistan,bat,Pakistan,,127,0
+test,2015-11-05,India,South Africa,"Punjab Cricket Association Stadium, Mohali",Chandigarh,India,bat,India,,108,0
+test,2015-11-14,India,South Africa,M Chinnaswamy Stadium,Bangalore,India,field,,draw,0,0
+test,2015-11-25,India,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,India,bat,India,,124,0
+test,2015-12-03,India,South Africa,Feroz Shah Kotla,Delhi,India,bat,India,,337,0
+test,2016-05-19,England,Sri Lanka,Headingley,Leeds,Sri Lanka,field,England,,88,0
+test,2016-05-27,England,Sri Lanka,Riverside Ground,Chester-le-Street,England,bat,England,,0,9
+test,2016-06-09,England,Sri Lanka,Lord's,London,England,bat,,draw,0,0
+test,2016-07-14,England,Pakistan,Lord's,London,Pakistan,bat,Pakistan,,75,0
+test,2016-07-22,England,Pakistan,Old Trafford,Manchester,England,bat,England,,330,0
+test,2016-08-03,England,Pakistan,Edgbaston,Birmingham,Pakistan,field,England,,141,0
+test,2016-08-11,England,Pakistan,Kennington Oval,London,England,bat,Pakistan,,0,10
+test,2015-12-10,New Zealand,Sri Lanka,University Oval,Dunedin,Sri Lanka,field,New Zealand,,122,0
+test,2015-12-18,New Zealand,Sri Lanka,Seddon Park,Hamilton,New Zealand,field,New Zealand,,0,5
+test,2016-02-12,New Zealand,Australia,Basin Reserve,Wellington,Australia,field,Australia,,52,0
+test,2016-02-20,New Zealand,Australia,Hagley Oval,Christchurch,Australia,field,Australia,,0,7
+test,2015-10-14,Sri Lanka,West Indies,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,6,0
+test,2015-10-22,Sri Lanka,West Indies,P Sara Oval,Colombo,Sri Lanka,bat,Sri Lanka,,72,0
+test,2016-08-19,South Africa,New Zealand,Kingsmead,Durban,South Africa,bat,,draw,0,0
+test,2016-08-27,South Africa,New Zealand,SuperSport Park,Centurion,New Zealand,field,South Africa,,204,0
+test,2016-12-26,South Africa,Sri Lanka,St George's Park,Port Elizabeth,South Africa,bat,South Africa,,206,0
+test,2017-01-02,South Africa,Sri Lanka,Newlands,Cape Town,Sri Lanka,field,South Africa,,282,0
+test,2017-01-12,South Africa,Sri Lanka,New Wanderers Stadium,Johannesburg,South Africa,bat,South Africa,,118,0
+test,2016-07-26,Sri Lanka,Australia,Pallekele International Cricket Stadium,,Sri Lanka,bat,Sri Lanka,,106,0
+test,2016-08-04,Sri Lanka,Australia,Galle International Stadium,,Sri Lanka,bat,Sri Lanka,,229,0
+test,2016-08-13,Sri Lanka,Australia,Sinhalese Sports Club Ground,Colombo,Sri Lanka,bat,Sri Lanka,,163,0
